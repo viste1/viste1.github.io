@@ -60,6 +60,11 @@ function buildStylesSCSS() {
       .pipe(dest('build/styles/'));
 }
 
+function buildFonts() {
+    return src('src/fonts/*.*')
+        .pipe(dest('build/fonts/'));
+}
+
 function buildScripts() {
   return src('src/scripts/**/*.js')
       .pipe(dest('build/scripts/'));
@@ -86,6 +91,7 @@ function watchFiles() {
     watch('src/styles/*.css', buildStyles);
     watch('src/styles/*.scss', buildStylesSCSS);
     watch('src/scripts/**/*.js', buildScripts);
+    watch('src/scripts/**/*.js', buildFonts);
 }
 
   exports.default =
@@ -94,7 +100,7 @@ function watchFiles() {
           parallel(
               devServer,
               series(
-                  parallel(buildAssets, buildPages, buildPagesPug, buildStyles, buildStylesSCSS, buildScripts),
+                  parallel(buildAssets, buildPages, buildFonts, buildPagesPug, buildStyles, buildStylesSCSS, buildScripts),
                   watchFiles
               )
           )

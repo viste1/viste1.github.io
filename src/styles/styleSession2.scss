@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'fontello';
-  src: url('/fonts/fontello.woff2?13429809') format('woff2'),
-  url('fonts/fontello.woff?13429809') format('woff');
+  src: url('../fonts/fontello.woff2?13429809') format('woff2'),
+  url('../fonts/fontello.woff?13429809') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,8 +13,7 @@
   display: inline-block;
 }
 
-.icon-forward:before { content: '\27a6'; } /* '➦' */
-.icon-friendfeed:before { content: '\e0ba'; } /* '' */
+.icon-forward:before { content: '\27a6'; }
 
 :root {
   --main-white: #ffffff;
