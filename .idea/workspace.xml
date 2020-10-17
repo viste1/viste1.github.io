@@ -30,7 +30,6 @@
       <change beforePath="$PROJECT_DIR$/build/indexSession2.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/indexSession2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/styleSession2.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/styleSession2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/styleSession2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styleSession2.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +94,7 @@
       <workItem from="1602935852637" duration="26771000" />
       <workItem from="1602968540941" duration="389000" />
       <workItem from="1602968944603" duration="2538000" />
+      <workItem from="1602971686049" duration="474000" />
     </task>
     <servers />
   </component>
