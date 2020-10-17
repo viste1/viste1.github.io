@@ -1,0 +1,101 @@
+var del = require('del');
+
+var { watch, src, dest, parallel, series } = require('gulp');
+
+var browserSync = require('browser-sync');
+
+var sass = require('gulp-sass');
+
+var postcss = require('gulp-postcss');
+var autoprefixer = require('autoprefixer');
+var cssnano = require('cssnano');
+
+var pug = require('gulp-pug');
+
+var imagemin = require('gulp-imagemin');
+
+// Девсервер
+function devServer(cb) {
+  var params = {
+    watch: true,
+    reloadDebounce: 150,
+    notify: false,
+    server: { baseDir: './build' },
+  };
+
+  browserSync.create().init(params);
+  cb();
+}
+
+// Сборка
+function buildPages() {
+  return src('src/pages/*.html')
+      .pipe(dest('build/'));
+}
+
+function buildPagesPug() {
+    return src('src/pages/*.pug')
+        .pipe(pug({
+            pretty: true
+        }))
+        .pipe(dest('build/'));
+}
+
+function buildStyles() {
+  return src('src/styles/*.css')
+      .pipe(postcss([
+          autoprefixer(),
+          cssnano()
+      ]))
+      .pipe(dest('build/styles/'));
+}
+
+function buildStylesSCSS() {
+  return src('src/styles/*.scss')
+      .pipe(sass())
+      .pipe(postcss([
+        autoprefixer(),
+        cssnano()
+      ]))
+      .pipe(dest('build/styles/'));
+}
+
+function buildScripts() {
+  return src('src/scripts/**/*.js')
+      .pipe(dest('build/scripts/'));
+}
+
+function buildAssets(cb) {
+    src(['src/assets/**/*.*', '!src/assets/img/**/*.*'])
+        .pipe(dest('build/assets/'));
+    src('src/assets/**/*.*')
+        .pipe(imagemin())
+        .pipe(dest('build/assets/'));
+    cb();
+}
+
+function clearBuild() {
+  return del('build/');
+}
+
+// Отслеживание
+function watchFiles() {
+    watch('src/assets/**/*.*', buildAssets);
+    watch('src/pages/*.html', buildPages);
+    watch(['src/pages/**/*.pug', 'src/blocks/**/*.pug'], buildPagesPug);
+    watch('src/styles/*.css', buildStyles);
+    watch('src/styles/*.scss', buildStylesSCSS);
+    watch('src/scripts/**/*.js', buildScripts);
+}
+
+  exports.default =
+      series(
+          clearBuild,
+          parallel(
+              devServer,
+              series(
+                  parallel(buildAssets, buildPages, buildPagesPug, buildStyles, buildStylesSCSS, buildScripts),
+                  watchFiles
+              )
+          )
+      );
