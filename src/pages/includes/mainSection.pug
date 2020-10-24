@@ -1,42 +1,32 @@
 section#section-main.section-main
-    .section-main-grid(itemscope itemtype="https://schema.org/Person")
-        .section-main-column-first
-            img(
-                class="section-main-image"
-                src="assets/img/avatarcat.jpg"
-                alt="Кот фото")
-        .section-main-column-second.reff-blue
-            p Имя: 
-                span.text(itemprop="givenName") Виталий
-            p Фамилия: 
-                span.text(itemprop="familyName") Степанов
-            p Пол: 
-                span.text(itemprop="gender") Мужской
-            p Рост: 
-                span.text(itemprop="height") 175 см
-            p Масса: 
-                span.text(itemprop="weight") 65 кг
-            p Дата рождения: 
-                span.text(itemprop="addressLocality") 08.05.1994
-            p Email: 
-                a.text(href="mailto:v@stepanov.work" itemprop="email") v@stepanov.work
-        .section-main-column-third.reff-blue
-            ul
+    .section-main-grid
+        .section-main-first-column
+            h1
+                div Репро
+                div дукцио
+            h2 Оффлайн-магазин репродукций шедевров мирового искусства
+            .section-main-first-column-address-and-contacts
+            ul.section-main-first-column-address
+                li Санкт-Петербург,
+                li ул. Адмирала Черокова,
+                    span 18
+            ul.section-main-first-column-contacts.hover-lightGray
+                li +7 812 960-22-01
                 li
-                    a(href="https://www.kinopoisk.ru/film/371/")
-                        i.icon-forward "Спасти рядового Райана"
-                li
-                    a(href="https://www.kinopoisk.ru/film/496/")
-                        i.icon-forward "Особое мнение"
-                li
-                    a(href="https://www.kinopoisk.ru/film/435/")
-                        i.icon-forward "Зеленая миля"
-                li
-                    a(href="https://www.kinopoisk.ru/film/397667/")
-                        i.icon-forward "Остров проклятых"
-                li
-                    a(href="https://www.kinopoisk.ru/film/309/")
-                        i.icon-forward "Эквилибриум"
-                li
-                    a(href="https://www.kinopoisk.ru/film/370/")
-                        i.icon-forward "Унесённые призраками"
+                    a(href="mailto:shop@reproduct.io" itemprop="email") shop@reproduct.io
+        .section-main-second-column
+            .section-main-js-slider-full
+                .slider__item
+                    img(src="assets/img/yavlenie.jpg" alt="Явление")
+                .slider__item
+                    img(src="assets/img/birth.jpg" alt="Рождение Венеры")
+                .slider__item
+                    img(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
+        .section-main-third-column
+            .section-main-js-slider-mini
+                .slider__item
+                    img(src="assets/img/yavlenie.jpg" alt="Явление")
+                .slider__item
+                    img(src="assets/img/birth.jpg" alt="Рождение Венеры")
+                .slider__item
+                    img(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")

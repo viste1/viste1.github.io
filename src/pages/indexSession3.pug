@@ -1,0 +1,34 @@
+doctype html
+html(lang="ru")
+    include includes/head
+        include includes/title
+        include includes/meta
+    body
+        include includes/mainSection
+        include includes/popularSection
+        include includes/writeUsSection
+        include includes/scriptsJS
+        script.
+            $(document).on('DOMContentLoaded', () => {
+                $('.section-main-js-slider-full').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    fade: true,
+                    infinite: false,
+                    asNavFor: '.section-main-js-slider-mini'
+                })
+
+                $('.section-main-js-slider-mini').slick({
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    vertical: true,
+                    infinite: false,
+                    asNavFor: '.section-main-js-slider-full',
+                    arrows: false,
+                    focusOnSelect: true
+                })
+
+                $('.section-popular-js-slider-full').slick({
+
+                })
+            })

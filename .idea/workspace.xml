@@ -19,14 +19,97 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/Session3" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/arr-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/arr-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/birth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/bonapart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/ohotniki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/serafim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/serga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/yavlenie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/mainSection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/popularSection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/title.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/writeUsSection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/indexSession3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/styleSession3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vendor/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vendor/slick/slick-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vendor/slick/slick.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vendor/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arr-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arr-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/birth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/bonapart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/ohotniki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/serafim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/serga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/yavlenie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/scripts/slick-section-main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick/slick-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick/slick.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/slick/slick.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Session2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Session2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/avatarcat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/discount.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/latun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/opengraph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/pechati.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/plastic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/plombir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/polig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/price.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/shtamp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/indexSession2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/styleSession2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/avatarcat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/discount.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/latun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/opengraph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/pechati.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/plastic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/plombir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/polig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/price.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/shtamp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/meta.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/meta.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/title.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/title.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/indexSession2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/indexSession3.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styleSession2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styleSession3.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +123,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Pug File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Session3" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="Session3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,10 +159,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myFirstSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Session3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,8 +172,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3" />
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\vendor\jquery" />
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\includes" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +203,11 @@
       <workItem from="1602971686049" duration="508000" />
       <workItem from="1602972266377" duration="276000" />
       <workItem from="1602972806204" duration="356000" />
-      <workItem from="1602973234143" duration="31000" />
+      <workItem from="1602973234143" duration="838000" />
+      <workItem from="1603464536615" duration="2175000" />
+      <workItem from="1603467440625" duration="17062000" />
+      <workItem from="1603526042213" duration="26871000" />
+      <workItem from="1603556095557" duration="13816000" />
     </task>
     <servers />
   </component>
@@ -111,7 +225,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/Session3" />
                       </list>
                     </value>
                   </entry>
@@ -136,10 +250,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="571" height="379" key="Git.Branch.Popup" timestamp="1602967549771">
+    <state width="581" height="389" key="Git.Branch.Popup" timestamp="1603569833704">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="571" height="379" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602967549771" />
+    <state width="581" height="389" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603569833704" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1602935199762">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -156,17 +270,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602935199762" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1602929052930">
+    <state x="260" y="246" key="RollbackChangesDialog" timestamp="1603552345094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602929052930" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1602968696816">
+    <state x="260" y="246" key="RollbackChangesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603552345094" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1602973755292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602968696816" />
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1603569688250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603569688250" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602966768962" />
+    <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603469952470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603469952470" />
   </component>
 </project>

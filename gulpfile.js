@@ -29,20 +29,20 @@ function devServer(cb) {
 
 // Сборка
 function buildPages() {
-  return src('src/pages/*.html')
+  return src('src/pages/**/*.html')
       .pipe(dest('build/'));
 }
 
 function buildPagesPug() {
-    return src('src/pages/*.pug')
+    return src('src/pages/**/*.pug')
         .pipe(pug(
-//{pretty: true}
+{pretty: true}
         ))
         .pipe(dest('build/'));
 }
 
 function buildStyles() {
-  return src('src/styles/*.css')
+  return src('src/styles/**/*.css')
       .pipe(postcss([
           autoprefixer(),
           cssnano()
@@ -51,7 +51,7 @@ function buildStyles() {
 }
 
 function buildStylesSCSS() {
-  return src('src/styles/*.scss')
+  return src('src/styles/**/*.scss')
       .pipe(sass())
       .pipe(postcss([
         autoprefixer(),
@@ -60,14 +60,24 @@ function buildStylesSCSS() {
       .pipe(dest('build/styles/'));
 }
 
+function buildVendorFiles() {
+    return src('src/vendor/**/*.*')
+        .pipe(dest('build/vendor/'));
+}
+
 function buildFonts() {
-    return src('src/fonts/*.*')
+    return src('src/fonts/**/*.*')
         .pipe(dest('build/fonts/'));
 }
 
 function buildScripts() {
   return src('src/scripts/**/*.js')
       .pipe(dest('build/scripts/'));
+}
+
+function buildIncludedScripts() {
+    return src('src/pages/includes/**/*.js')
+        .pipe(dest('build/includes/'));
 }
 
 function buildAssets(cb) {
@@ -86,12 +96,14 @@ function clearBuild() {
 // Отслеживание
 function watchFiles() {
     watch('src/assets/**/*.*', buildAssets);
-    watch('src/pages/*.html', buildPages);
+    watch('src/pages/**/*.html', buildPages);
     watch(['src/pages/**/*.pug', 'src/blocks/**/*.pug'], buildPagesPug);
-    watch('src/styles/*.css', buildStyles);
-    watch('src/styles/*.scss', buildStylesSCSS);
+    watch('src/styles/**/*.css', buildStyles);
+    watch('src/styles/**/*.scss', buildStylesSCSS);
+    watch('src/vendor/**.**', buildVendorFiles);
     watch('src/scripts/**/*.js', buildScripts);
-    watch('src/scripts/**/*.js', buildFonts);
+    watch('src/pages/includes/**/*.js', buildIncludedScripts);
+    watch('src/fonts/**/*.*', buildFonts);
 }
 
   exports.default =
@@ -100,7 +112,7 @@ function watchFiles() {
           parallel(
               devServer,
               series(
-                  parallel(buildAssets, buildPages, buildFonts, buildPagesPug, buildStyles, buildStylesSCSS, buildScripts),
+                  parallel(buildAssets, buildPages, buildFonts, buildPagesPug, buildStyles, buildStylesSCSS, buildVendorFiles, buildScripts, buildIncludedScripts),
                   watchFiles
               )
           )
