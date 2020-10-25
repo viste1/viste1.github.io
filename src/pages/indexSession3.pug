@@ -29,6 +29,25 @@ html(lang="ru")
                 })
 
                 $('.section-popular-js-slider-full').slick({
-
+                    infinite: true,
+                    slidesToShow: 3,
+                    slidesToScroll: 3
                 })
+
+                $('.js-link-pravila-popup').click(function () {
+
+                    var items = [];
+                    $($(this).attr('href')).find('.slideee').each(function () {
+                        items.push({
+                            src: $(this)
+                        });
+                    });
+
+                    $.magnificPopup.open({
+                        items: items,
+                        gallery: {
+                            enabled: true
+                        }
+                    });
+                });
             })

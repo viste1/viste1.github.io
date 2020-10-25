@@ -1,0 +1,35 @@
+@import "colors.scss";
+
+.section-writeUs-grid {
+  display: grid;
+  grid-template-areas:
+          "first second third 4th";
+  grid-template-rows: 45rem;
+  grid-template-columns: 1fr 33% 33% 1fr;
+  h3{
+    margin-top: 1.5rem;
+    line-height: 1.2;
+  }
+}
+.section-writeUs-second-column-footer-text{
+  a {
+    text-decoration: underline;
+    color: $gray;
+    &:hover{
+      color: $white;
+    }
+  }
+  margin-top: 20rem;
+  line-height: 1.7;
+  font-size: 2.1rem;
+  color: $gray;
+}
+
+.slideee {
+
+  padding: 40px;
+  background: #FFF;
+  margin: 0 auto;
+  position: relative;
+  max-width: 100px;
+}

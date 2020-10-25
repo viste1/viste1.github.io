@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/styleSession3.css">
     <link rel="stylesheet" type="text/css" href="vendor/slick/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/magnific/magnific-popup.css">
     <title>Репро дукцио</title>
     <meta charset="UTF-8">
     <meta name="keywords" content="сайт Репро дукцио Репродукцио репродукции картины магазин">
@@ -38,15 +39,16 @@
             <div>дукцио</div>
           </h1>
           <h2>Оффлайн-магазин репродукций шедевров мирового искусства</h2>
-          <div class="section-main-first-column-address-and-contacts"></div>
-          <ul class="section-main-first-column-address">
-            <li>Санкт-Петербург,</li>
-            <li>ул. Адмирала Черокова,<span>18</span></li>
-          </ul>
-          <ul class="section-main-first-column-contacts hover-lightGray">
-            <li>+7 812 960-22-01</li>
-            <li><a href="mailto:shop@reproduct.io" itemprop="email">shop@reproduct.io</a></li>
-          </ul>
+          <div class="section-main-first-column-address-and-contacts">
+            <ul class="section-main-first-column-address">
+              <li>Санкт-Петербург,</li>
+              <li>ул. Адмирала Черокова,<span>18</span></li>
+            </ul>
+            <ul class="section-main-first-column-contacts hover-lightGray">
+              <li>+7 812 960-22-01</li>
+              <li><a href="mailto:shop@reproduct.io" itemprop="email">shop@reproduct.io</a></li>
+            </ul>
+          </div>
         </div>
         <div class="section-main-second-column">
           <div class="section-main-js-slider-full">
@@ -66,15 +68,18 @@
     </section>
     <section class="section-popular" id="section-popular">
       <div class="section-popular-grid">
-        <div class="section-popular-first-column">
+        <div class="section-popular-first-row">
           <h2>Популярное</h2>
           <h3>Нестареюшая классика и бестселлеры.</h3>
         </div>
-        <div class="section-popular-second-column">
+        <div class="section-popular-second-row">
           <div class="section-popular-js-slider-full">
-            <div class="slider__item"><img src="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой"></div>
-            <div class="slider__item"><img src="assets/img/bonapart.jpg" alt="Бонапарт на перевале"></div>
-            <div class="slider__item"><img src="assets/img/ohotniki.jpg" alt="Охотники на снегу"></div>
+            <div><img src="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой"></div>
+            <div><img src="assets/img/bonapart.jpg" alt="Бонапарт на перевале"></div>
+            <div><img src="assets/img/ohotniki.jpg" alt="Охотники на снегу"></div>
+            <div><img src="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой"></div>
+            <div><img src="assets/img/bonapart.jpg" alt="Бонапарт на перевале"></div>
+            <div><img src="assets/img/ohotniki.jpg" alt="Охотники на снегу"></div>
           </div>
         </div>
       </div>
@@ -84,14 +89,25 @@
         <div class="section-writeUs-first-column"></div>
         <div class="section-writeUs-second-column">
           <h2>Написать нам</h2>
-          <h3>Заполните форму справа или отправьте письмо на shop@reproduct.io</h3>
+          <h3>
+            <div>Заполните форму справа</div>
+            <div>или отправьте письмо на shop@reproduct.io</div>
+          </h3>
+          <div class="section-writeUs-second-column-footer-text">
+            <p>Репродукцио, 2019</p><a class="js-link-pravila-popup" href="#pravila">Правила обработки персональных данных</a>
+          </div>
         </div>
         <div class="section-writeUs-third-column"></div>
         <div class="section-writeUs-4th-column"></div>
       </div>
     </section>
+    <div class="mfp-hide white-popup-block" id="pravila">
+      <div class="slideee">Какой-то текст в окне 1</div>
+      <div class="slideee">Какой-то текст в окне 2</div>
+    </div>
     <script type="text/javascript" src="vendor/jquery/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="vendor/slick/slick.min.js"></script>
+    <script type="text/javascript" src="vendor/magnific/magnific/jquery.magnific-popup.js"></script>
     <script>
       $(document).on('DOMContentLoaded', () => {
           $('.section-main-js-slider-full').slick({
@@ -113,8 +129,27 @@
           })
       
           $('.section-popular-js-slider-full').slick({
-      
+              infinite: true,
+              slidesToShow: 3,
+              slidesToScroll: 3
           })
+      
+          $('.js-link-pravila-popup').click(function () {
+      
+              var items = [];
+              $($(this).attr('href')).find('.slideee').each(function () {
+                  items.push({
+                      src: $(this)
+                  });
+              });
+      
+              $.magnificPopup.open({
+                  items: items,
+                  gallery: {
+                      enabled: true
+                  }
+              });
+          });
       })
     </script>
   </body>

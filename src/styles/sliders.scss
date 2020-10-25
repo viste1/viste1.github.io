@@ -1,0 +1,36 @@
+@import "colors.scss";
+
+.section-main-js-slider-full{
+  position: relative;
+  @import "sliderArrows.scss";
+  .slick-arrow{
+    margin: 1rem 1rem;
+  }
+  .slick-current{
+    opacity: 0.5;
+  }
+
+  .slick-disabled{
+    opacity: 0;
+  }
+}
+
+.section-main-js-slider-mini {
+  .slick-current{
+    opacity: 0.5;
+  }
+}
+
+.slick-list{
+  overflow: hidden !important;
+}
+
+.section-popular, .section-writeUs{
+  background: $black;
+  color: $white;
+}
+
+.section-popular-js-slider-full{
+  padding: 5rem 5rem;
+  @import "sliderArrows.scss";
+}
