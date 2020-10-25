@@ -14,6 +14,8 @@ var pug = require('gulp-pug');
 
 var imagemin = require('gulp-imagemin');
 
+var webpack = require('webpack-stream');
+
 // Девсервер
 function devServer(cb) {
   var params = {
@@ -36,7 +38,7 @@ function buildPages() {
 function buildPagesPug() {
     return src('src/pages/**/*.pug')
         .pipe(pug(
-{pretty: true}
+//{pretty: true}
         ))
         .pipe(dest('build/'));
 }
@@ -71,13 +73,9 @@ function buildFonts() {
 }
 
 function buildScripts() {
-  return src('src/scripts/**/*.js')
-      .pipe(dest('build/scripts/'));
-}
-
-function buildIncludedScripts() {
-    return src('src/pages/includes/**/*.js')
-        .pipe(dest('build/includes/'));
+    return src('src/scripts/index.js')
+        .pipe(webpack({ output: { filename: 'bundle.js' } }))
+        .pipe(dest('build/scripts/'));
 }
 
 function buildAssets(cb) {
@@ -102,7 +100,6 @@ function watchFiles() {
     watch('src/styles/**/*.scss', buildStylesSCSS);
     watch('src/vendor/**.**', buildVendorFiles);
     watch('src/scripts/**/*.js', buildScripts);
-    watch('src/pages/includes/**/*.js', buildIncludedScripts);
     watch('src/fonts/**/*.*', buildFonts);
 }
 
@@ -112,7 +109,7 @@ function watchFiles() {
           parallel(
               devServer,
               series(
-                  parallel(buildAssets, buildPages, buildFonts, buildPagesPug, buildStyles, buildStylesSCSS, buildVendorFiles, buildScripts, buildIncludedScripts),
+                  parallel(buildAssets, buildPages, buildFonts, buildPagesPug, buildStyles, buildStylesSCSS, buildVendorFiles, buildScripts),
                   watchFiles
               )
           )

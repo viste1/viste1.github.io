@@ -20,7 +20,8 @@
     "svgo": "^1.3.2"
   },
   "devDependencies": {
-    "gulp-autoprefixer": "^7.0.1"
+    "gulp-autoprefixer": "^7.0.1",
+    "webpack-stream": "^6.1.0"
   },
   "browserslist": [
     "defaults",
