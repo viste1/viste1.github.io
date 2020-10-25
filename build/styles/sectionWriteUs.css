@@ -1,0 +1,1 @@
+.section-writeUs-grid{display:grid;grid-template-areas:"first second third 4th";grid-template-rows:75rem;grid-template-columns:1fr 33% 33% 1fr}
