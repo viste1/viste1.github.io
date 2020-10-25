@@ -1,0 +1,43 @@
+@import "colors.scss";
+
+.white-popup-pravila {
+  .mfp-close{
+    margin: 1rem;
+    z-index: 10;
+    font-size: 0;
+    width: 2rem;
+    height: 2rem;
+    background: url("../assets/img/close.svg") 0 0 / 100% no-repeat;
+  }
+  position: relative;
+  background: $white;
+  padding: 20px;
+  width: auto;
+  max-width: 120rem;
+  margin: 20px auto;
+
+  ul {
+    font-size: 2rem;
+  }
+
+  .white-popup-pravila-text1 {
+    margin-top: 2rem;
+    li {
+      &:nth-child(2){
+        margin-top: 2rem;
+      }
+      &:nth-child(2), &:nth-child(3), &:nth-child(4){
+        margin-left: 2rem;
+      }
+    }
+  }
+  .white-popup-pravila-text2{
+    margin-top: 2rem;
+    li {
+      margin-top: 2rem;
+      &:nth-child(2) {
+        margin: 2rem;
+      }
+    }
+  }
+}
