@@ -38,7 +38,7 @@ function buildPages() {
 function buildPagesPug() {
     return src('src/pages/**/*.pug')
         .pipe(pug(
-{pretty: true}
+//{pretty: true}
         ))
         .pipe(dest('build/'));
 }

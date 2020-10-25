@@ -26,15 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/includes/writeUsSectionPravilaPopup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSectionPravilaPopup.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/styleSession3.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/styleSession3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionWriteUs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/styleSession3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styleSession3.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +131,7 @@
       <workItem from="1603467440625" duration="17062000" />
       <workItem from="1603526042213" duration="26871000" />
       <workItem from="1603556095557" duration="28740000" />
-      <workItem from="1603614265041" duration="8448000" />
+      <workItem from="1603614265041" duration="8883000" />
     </task>
     <servers />
   </component>
@@ -210,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1603621791777">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1603622832698">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603621791777" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603622832698" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
