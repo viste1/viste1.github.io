@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/scripts/parts/lazy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/lazy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="587" height="395" key="Git.Branch.Popup" timestamp="1604083538199">
+    <state width="589" height="397" key="Git.Branch.Popup" timestamp="1604084066084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="587" height="395" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604083538199" />
+    <state width="589" height="397" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604084066084" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -276,10 +278,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604083539207">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604084066977">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604083539207" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604084066977" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
