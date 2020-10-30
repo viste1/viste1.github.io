@@ -26,49 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/assets/img/birth.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/bonapart.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/ohotniki.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serafim.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serga.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/yavlenie.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/birth.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bonapart.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/ohotniki.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/serafim.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/serga.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/yavlenie.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/birth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/birth.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/bonapart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/bonapart.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/ohotniki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/ohotniki.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/serafim.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/serafim.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/serga.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/serga.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/yavlenie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/yavlenie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/mainSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/mainSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/popularSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/popularSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/writeUsSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSectionRulesPopup.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/writeUsSectionRulesPopup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/jquery/jquery-3.5.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/jquery/jquery-3.5.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/magnific/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/magnific/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/magnific/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/magnific/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/slick/slick-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/slick/slick-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/slick/slick.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/slick/slick.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendor/slick/slick.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendor/slick/slick.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/birth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/birth.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/bonapart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/bonapart.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/ohotniki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/ohotniki.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/serafim.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/serafim.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/serga.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/serga.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/yavlenie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/yavlenie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSectionRulesPopup.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSectionRulesPopup.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/lazy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/lazy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,10 +200,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="585" height="393" key="Git.Branch.Popup" timestamp="1604075909406">
+    <state width="587" height="395" key="Git.Branch.Popup" timestamp="1604083538199">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="585" height="393" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604075909406" />
+    <state width="587" height="395" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604083538199" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -318,10 +276,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604075915583">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604083539207">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604075915583" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604083539207" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
