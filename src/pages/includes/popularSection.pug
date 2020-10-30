@@ -6,7 +6,9 @@ section#section-popular.section-popular
         .section-popular__second-row
             .section-popular__js-slider-full
                 div
-                    img.js-lazy(src="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой")
+                    picture.js-lazy
+                        source(srcset='assets/img/serga.webp' type='image/webp')
+                        img(srcset="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой")
                     h3
                         span Девушка с жемчужной серёжкой,
                         span  1665
@@ -19,7 +21,9 @@ section#section-popular.section-popular
                             span 900
                             span  ₽
                 div
-                    img.js-lazy(src="assets/img/bonapart.jpg" alt="Бонапарт на перевале")
+                    picture.js-lazy
+                        source(srcset='assets/img/bonapart.webp' type='image/webp')
+                        img(srcset="assets/img/bonapart.jpg" alt="Бонапарт на перевале")
                     h3
                         span Бонапарт на перевале,
                         span  1801
@@ -32,7 +36,9 @@ section#section-popular.section-popular
                             span 3 900
                             span  ₽
                 div
-                    img.js-lazy.section-popular__js-img-height(src="assets/img/ohotniki.jpg" alt="Охотники на снегу")
+                    picture.js-lazy
+                        source(srcset='assets/img/ohotniki.webp' type='image/webp')
+                        img(srcset="assets/img/ohotniki.jpg" alt="Охотники на снегу")
                     h3
                         span Охотники на снегу,
                         span  1565
@@ -45,8 +51,47 @@ section#section-popular.section-popular
                             span 2 400
                             span  ₽
                 div
-                    img(src="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой")
+                    picture.js-lazy
+                        source(srcset='assets/img/serga.webp' type='image/webp')
+                        img(srcset="assets/img/serga.jpg" alt="Девушка с жемчужной серёжкой")
+                    h3
+                        span Девушка с жемчужной серёжкой,
+                        span  1665
+                    .section-popular__info-grid
+                        p.section-popular__author Ян Вермеер
+                        p.section-popular__canvas
+                            span 44x39 см,
+                            span  холст
+                        p.section-popular__price
+                            span 900
+                            span  ₽
                 div
-                    img(src="assets/img/bonapart.jpg" alt="Бонапарт на перевале")
+                    picture.js-lazy
+                        source(srcset='assets/img/bonapart.webp' type='image/webp')
+                        img(srcset="assets/img/bonapart.jpg" alt="Бонапарт на перевале")
+                    h3
+                        span Бонапарт на перевале,
+                        span  1801
+                    .section-popular__info-grid
+                        p.section-popular__author Жак-Луи Давид
+                        p.section-popular__canvas
+                            span 261x220 см,
+                            span  холст
+                        p.section-popular__price
+                            span 3 900
+                            span  ₽
                 div
-                    img(src="assets/img/ohotniki.jpg" alt="Охотники на снегу")
+                    picture.js-lazy
+                        source(srcset='assets/img/ohotniki.webp' type='image/webp')
+                        img(srcset="assets/img/ohotniki.jpg" alt="Охотники на снегу")
+                    h3
+                        span Охотники на снегу,
+                        span  1565
+                    .section-popular__info-grid
+                        p.section-popular__author Питер Брейгель Старший
+                        p.section-popular__canvas
+                            span 117x162 см,
+                            span  холст
+                        p.section-popular__price
+                            span 2 400
+                            span  ₽

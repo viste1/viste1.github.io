@@ -1,3 +1,8 @@
+mixin picture(path, name, type)
+    picture
+        each val in type
+            source(srcset=path + "/" + name + "." + val type="image/" + val)
+        img(src=path + "/" + name + ".jpg" alt=name)
 section#section-main.section-main
     .section-main__grid
         .section-main__first-column
@@ -17,16 +22,30 @@ section#section-main.section-main
         .section-main__second-column
             .section-main__js-slider-full
                 .slider__item
-                    img.js-difLazy(src="assets/img/yavlenie.jpg" alt="Явление")
+                    picture.js-difLazy
+                        source(srcset='assets/img/yavlenie.webp' type='image/webp')
+                        img(srcset="assets/img/yavlenie.jpg" alt="Явление")
                 .slider__item
-                    img.js-difLazy(src="assets/img/birth.jpg" alt="Рождение Венеры")
+                    picture.js-difLazy
+                        source(srcset='assets/img/birth.webp' type='image/webp')
+                        img(srcset="assets/img/birth.jpg" alt="Рождение Венеры")
                 .slider__item
-                    img.js-difLazy(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
+                    picture.js-difLazy
+                        source(srcset='assets/img/serafim.webp' type='image/webp')
+                        img(srcset="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
+                        img.js-difLazy(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
         .section-main__third-column
             .section-main__js-slider-mini
                 .slider__item
-                    img.js-difLazy(src="assets/img/yavlenie.jpg" alt="Явление")
+                    picture.js-difLazy
+                        source(srcset='assets/img/yavlenie.webp' type='image/webp')
+                        img(srcset="assets/img/yavlenie.jpg" alt="Явление")
                 .slider__item
-                    img.js-difLazy(src="assets/img/birth.jpg" alt="Рождение Венеры")
+                    picture.js-difLazy
+                        source(srcset='assets/img/birth.webp' type='image/webp')
+                        img(srcset="assets/img/birth.jpg" alt="Рождение Венеры")
                 .slider__item
-                    img.js-difLazy(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
+                    picture.js-difLazy
+                        source(srcset='assets/img/serafim.webp' type='image/webp')
+                        img(srcset="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
+                        img.js-difLazy(src="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
