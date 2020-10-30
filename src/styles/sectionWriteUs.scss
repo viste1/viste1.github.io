@@ -1,6 +1,6 @@
 @import "colors.scss";
 
-.section-writeUs-grid {
+.section-writeUs__grid {
   display: grid;
   grid-template-areas:
           "first second third 4th";
@@ -11,7 +11,7 @@
     line-height: 1.2;
   }
 }
-.section-writeUs-second-column-footer-text{
+.section-writeUs__second-column__footer-text{
   a {
     text-decoration: underline;
     color: $gray;

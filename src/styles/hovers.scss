@@ -1,6 +1,6 @@
 @import "colors.scss";
 
-.hover-lightGray{
+.hover_lightGray{
   a:hover{
     background: $bwhite;
     -webkit-transition: background 0.3s ease-out;
@@ -8,7 +8,7 @@
   }
 }
 
-.hover-white{
+.hover_white{
   a:hover{
     background: $bwhite;
     -webkit-transition: background 0.3s ease-out;

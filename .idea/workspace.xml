@@ -20,13 +20,61 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Session3" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Session3-4" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/includes/writeUsSectionRulesPopup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/parts/difLazy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/parts/indentSize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/parts/lazy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/mainSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/mainSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/meta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/popularSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/popularSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/scriptsJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/scriptsJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/writeUsSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSectionPravilaPopup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/indexSession3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/hovers.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/hovers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionMain.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionMain.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionPopular.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionPopular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sliderArrows.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sliderArrows.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sliders.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/sliders.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/styleSession3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/stylesForAll.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSectionPravilaPopup.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/writeUsSectionRulesPopup.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/indexSession3.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/popups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/popups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hovers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hovers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionMain.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionMain.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionPopular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionPopular.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionWriteUs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sliderArrows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sliderArrows.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sliders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styleSession3.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/stylesForAll.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +88,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -87,6 +135,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Session3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -107,6 +156,25 @@
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\vendor\jquery" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\includes" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="indentSize.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/scripts/parts/indentSize.js" working-dir="$PROJECT_DIR$/src/scripts/parts">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.indentSize.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +199,12 @@
       <workItem from="1603467440625" duration="17062000" />
       <workItem from="1603526042213" duration="26871000" />
       <workItem from="1603556095557" duration="28740000" />
-      <workItem from="1603614265041" duration="8883000" />
+      <workItem from="1603614265041" duration="8970000" />
+      <workItem from="1603631726926" duration="321000" />
+      <workItem from="1603632117321" duration="171000" />
+      <workItem from="1603910530109" duration="1829000" />
+      <workItem from="1603969239159" duration="24849000" />
+      <workItem from="1604054702916" duration="18562000" />
     </task>
     <servers />
   </component>
@@ -149,7 +222,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Session3" />
+                        <option value="Session3-4" />
                       </list>
                     </value>
                   </entry>
@@ -174,26 +247,74 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="581" height="389" key="Git.Branch.Popup" timestamp="1603569833704">
+    <state width="583" height="391" key="Git.Branch.Popup" timestamp="1604055008948">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="581" height="389" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603569833704" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1602935199762">
+    <state width="583" height="391" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604055008948" />
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602935199762" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1602935199762">
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439326" />
+    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602935199762" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1602935199762">
+    <state width="1877" height="363" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439326" />
+    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602935199762" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1602935199762">
+    <state width="1877" height="363" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439326" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1604061439326">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602935199762" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439326" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.2.bottom" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.2.center" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.2.left" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.2.right" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.3.bottom" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.3.center" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.3.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.3.left" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.3.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
+    <state width="1877" height="363" key="GridCell.Tab.3.right" timestamp="1604061439327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.3.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604061439327" />
     <state x="260" y="246" key="RollbackChangesDialog" timestamp="1603552345094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -202,17 +323,29 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1603622832698">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1603623268416">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603622832698" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603623268416" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602966768962" />
+    <state x="634" y="109" width="585" height="888" key="find.popup" timestamp="1604058453053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="109" width="585" height="888" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604058453053" />
     <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603469952470">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603469952470" />
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup" timestamp="1603974866009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603974866009" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1603971299100">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603971299100" />
   </component>
 </project>

@@ -43,11 +43,29 @@ h3{
   font-size: 2.3rem;
 }
 
-.section-main-grid, .section-popular-grid, .section-writeUs-grid{
+.section-main__grid, .section-popular__grid, .section-writeUs__grid{
   max-width: 191rem;
   margin: auto;
 }
 
-.section-main-first-column, .section-main-second-column, .section-popular-first-row{
+.section-popular, .section-writeUs{
+  background: $black;
+  color: $white;
+  h3{
+    color: $silver;
+  }
+}
+
+.section-main__first-column, .section-main__second-column, .section-popular__first-row{
   margin: 3rem 5rem;
 }
+
+.slick-slide{
+  outline: none;
+}
+
+@import "sliders.scss";
+@import "hovers.scss";
+@import "sectionMain.scss";
+@import "sectionPopular.scss";
+@import "sectionWriteUs.scss";

@@ -1,5 +1,5 @@
 export default function initPopups() {
-    $('.js-popup-section-writeUs-pravila').magnificPopup({
+    $('.section-writeUs__js-popup-rules').magnificPopup({
         type: 'inline'
     });
 }

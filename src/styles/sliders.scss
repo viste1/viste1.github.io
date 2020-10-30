@@ -1,6 +1,6 @@
 @import "colors.scss";
 
-.section-main-js-slider-full{
+.section-main__js-slider-full{
   position: relative;
   @import "sliderArrows.scss";
   .slick-arrow{
@@ -15,7 +15,7 @@
   }
 }
 
-.section-main-js-slider-mini {
+.section-main__js-slider-mini {
   .slick-current{
     opacity: 0.5;
   }
@@ -25,12 +25,7 @@
   overflow: hidden !important;
 }
 
-.section-popular, .section-writeUs{
-  background: $black;
-  color: $white;
-}
-
-.section-popular-js-slider-full{
+.section-popular__js-slider-full{
   padding: 5rem 5rem;
   @import "sliderArrows.scss";
 }
