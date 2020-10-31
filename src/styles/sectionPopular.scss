@@ -5,7 +5,7 @@
   grid-template-areas:
           "name name name"
           ". slider .";
-  grid-template-rows: 20rem 75rem;
+  grid-template-rows: 18rem 77rem;
   grid-template-columns: 1fr 180rem 1fr;
 }
 
@@ -26,8 +26,20 @@
   }
   div{
     padding-top: 0;
-    img {
-      width: 70%;
+    &:nth-child(1){
+      margin-top: 2rem;
+
+      h3{
+        width: 29rem;
+      }
+    }
+  }
+  img {
+    width: 70%;
+    &:hover{
+      transition: all 1s ease;
+      opacity: 1;
+      box-shadow: 0 0 50px $blue;
     }
   }
 }

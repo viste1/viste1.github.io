@@ -25,4 +25,41 @@
   color: $gray;
 }
 
+.section-writeUs__form{
+  input{
+    margin-left: 15rem;
+    border-radius: 5px;
+  }
+}
+
+.section-writeUs__form_email, .section-writeUs__form_text{
+  padding-left: 1rem;
+  width: 44rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+
+.section-writeUs__form_email {
+  height: 6rem;
+}
+
+.section-writeUs__form_text{
+  margin-top: 2rem;
+  height: 24rem;
+}
+
+.section-writeUs__form_submit{
+  font-size: 2.2rem;
+  margin-top: 2rem;
+  height: 6rem;
+  width: 30rem;
+  color: $white;
+  background: $blue;
+  font-weight: 600;
+}
+
+.section-writeUs__form-div_submit{
+  margin-left: 14rem;
+}
+
 @import "sectionWriteUsPravilaPopup.scss";
