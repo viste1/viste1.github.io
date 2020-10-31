@@ -26,37 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/assets/img/birth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/birth.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/bonapart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/bonapart.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/ohotniki.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/ohotniki.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serafim.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serafim.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/serga.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/yavlenie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/yavlenie.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/hovers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sectionMain.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sectionPopular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sliderArrows.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/styles/sliders.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-152.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-152.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-167.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-167.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-180.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-32.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/favicon/favicon-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/favicon/favicon-64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/arr-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/arr-right.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/head.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +160,7 @@
       <workItem from="1604054702916" duration="18874000" />
       <workItem from="1604139033112" duration="16124000" />
       <workItem from="1604165118197" duration="1728000" />
-      <workItem from="1604166870905" duration="1740000" />
+      <workItem from="1604166870905" duration="1911000" />
     </task>
     <servers />
   </component>
@@ -234,10 +203,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="593" height="401" key="Git.Branch.Popup" timestamp="1604168525865">
+    <state width="595" height="403" key="Git.Branch.Popup" timestamp="1604168803758">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="593" height="401" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604168525865" />
+    <state width="595" height="403" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604168803758" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604094278252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -310,10 +279,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604168527140">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604168804759">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604168527140" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604168804759" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
