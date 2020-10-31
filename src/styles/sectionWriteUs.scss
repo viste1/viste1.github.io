@@ -4,7 +4,7 @@
   display: grid;
   grid-template-areas:
           "first second third 4th";
-  grid-template-rows: 45rem;
+  grid-template-rows: 47rem;
   grid-template-columns: 1fr 33% 33% 1fr;
   h3{
     margin-top: 1.5rem;
@@ -14,7 +14,7 @@
 .section-writeUs__second-column__footer-text{
   a {
     text-decoration: underline;
-    color: $gray;
+    color: gray;
     &:hover{
       color: $white;
     }
@@ -22,7 +22,7 @@
   margin-top: 20rem;
   line-height: 1.7;
   font-size: 2.1rem;
-  color: $gray;
+  color: gray;
 }
 
 .section-writeUs__form{

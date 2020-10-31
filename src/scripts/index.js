@@ -8,8 +8,8 @@ import initStorage from './parts/localStorage';
 $(document).on('DOMContentLoaded', () => {
     initSliders();
     initPopups();
-    //initIndentSize();
+    initIndentSize();
     initLazy();
     initDifLazy();
-    //initStorage();
+    initStorage();
 });

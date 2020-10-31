@@ -5,7 +5,7 @@
   grid-template-areas:
           "name name name"
           ". slider .";
-  grid-template-rows: 18rem 77rem;
+  grid-template-rows: 15rem 90rem;
   grid-template-columns: 1fr 180rem 1fr;
 }
 
@@ -19,6 +19,7 @@
   grid-area: slider;
   h3{
     color: $white;
+    line-height: 3rem;
   }
   p{
     color: $silver;
@@ -28,14 +29,12 @@
     padding-top: 0;
     &:nth-child(1){
       margin-top: 2rem;
-
       h3{
         width: 29rem;
       }
     }
   }
   img {
-    width: 70%;
     &:hover{
       transition: all 1s ease;
       opacity: 1;
@@ -52,20 +51,20 @@
 
 .section-popular__canvas{
   grid-area: section-popular__canvas;
-  margin-top: 1.5rem;
 }
 
 .section-popular__author{
   grid-area: section-popular__author;
-  margin-top: 2rem;
+  margin-top: 0.4rem;
 }
 
 .section-popular__price{
   grid-area: section-popular__price;
-  margin-top: 1.5rem;
+  margin-right: 6rem;
   span{
     color: $gold;
   }
+  text-align: right;
 }
 
 .section-popular__info-grid{

@@ -24,7 +24,8 @@ function initSliderSectionPopular() {
     $('.section-popular__js-slider-full').slick({
         slidesToShow: 3,
         slidesToScroll: 3,
-        infinite: true
+        infinite: true,
+        variableWidth: true
     })
 }
 
