@@ -1,8 +1,3 @@
-mixin picture(path, name, type)
-    picture
-        each val in type
-            source(srcset=path + "/" + name + "." + val type="image/" + val)
-        img(src=path + "/" + name + ".jpg" alt=name)
 section#section-main.section-main
     .section-main__grid
         .section-main__first-column
@@ -23,57 +18,27 @@ section#section-main.section-main
             .section-main__js-slider-full
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
+                        source(srcset='assets/img/yavlenie.webp' type='image/webp')
                         img(srcset="assets/img/yavlenie.jpg" alt="Явление")
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/birth.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/birth.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/birth.jpg' type='image/jpeg')
+                        source(srcset='assets/img/birth.webp' type='image/webp')
                         img(srcset="assets/img/birth.jpg" alt="Рождение Венеры")
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/serafim.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/serafim.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/serafim.jpg' type='image/jpeg')
+                        source(srcset='assets/img/serafim.webp' type='image/webp')
                         img(srcset="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
         .section-main__third-column
             .section-main__js-slider-mini
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/yavlenie.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/yavlenie.jpg' type='image/jpeg')
+                        source(srcset='assets/img/yavlenie.webp' type='image/webp')
                         img(srcset="assets/img/yavlenie.jpg" alt="Явление")
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/birth.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/birth.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/birth.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/birth.jpg' type='image/jpeg')
+                        source(srcset='assets/img/birth.webp' type='image/webp')
                         img(srcset="assets/img/birth.jpg" alt="Рождение Венеры")
                 .slider__item
                     picture.js-difLazy
-                        source(media="(max-width: 767px)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(max-width: 1023px)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(min-width: 1024)" srcset='assets/img/serafim.webp' type='image/webp')
-                        source(media="(max-width: 767px)" srcset='assets/img/serafim.jpg' type='image/jpeg')
-                        source(media="(max-width: 1023px)" srcset='assets/img/serafim.jpg' type='image/jpeg')
-                        source(media="(min-width: 1024)" srcset='assets/img/serafim.jpg' type='image/jpeg')
+                        source(srcset='assets/img/serafim.webp' type='image/webp')
                         img(srcset="assets/img/serafim.jpg" alt="Шестикрылый Серафим")
