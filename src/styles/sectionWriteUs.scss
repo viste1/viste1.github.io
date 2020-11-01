@@ -26,7 +26,8 @@
 }
 
 .section-writeUs__form{
-  input{
+  ::-webkit-input-placeholder {color:silver}
+  input, textarea{
     margin-left: 15rem;
     border-radius: 5px;
   }
@@ -44,7 +45,11 @@
 }
 
 .section-writeUs__form_text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 2.5rem;
   margin-top: 2rem;
+  padding-top: 1rem;
   height: 24rem;
 }
 
