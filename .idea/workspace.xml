@@ -27,19 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/mainSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/mainSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/popularSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/popularSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/scriptsJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/scriptsJS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/head.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/parts/difLazy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/parts/lazy.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +168,7 @@
       <workItem from="1604191809092" duration="90000" />
       <workItem from="1604222807749" duration="926000" />
       <workItem from="1604233839791" duration="1545000" />
+      <workItem from="1604235434906" duration="253000" />
     </task>
     <servers />
   </component>
@@ -222,10 +211,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="609" height="417" key="Git.Branch.Popup" timestamp="1604191889679">
+    <state width="611" height="419" key="Git.Branch.Popup" timestamp="1604235484099">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="609" height="417" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604191889679" />
+    <state width="611" height="419" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604235484099" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604094278252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -298,10 +287,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604191890818">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604235485182">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604191890818" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604235485182" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

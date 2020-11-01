@@ -25,7 +25,7 @@ function initSliderSectionMainMini() {
 function initSliderSectionPopular() {
     $('.section-popular__js-slider-full').slick({
         slidesToShow: 3,
-        slidesToScroll: 3,
+        slidesToScroll: 1,
         lazyLoad: 'progressive',
         infinite: true,
         variableWidth: true
