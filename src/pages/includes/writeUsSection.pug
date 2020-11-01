@@ -11,10 +11,12 @@ section#section-writeUs.section-writeUs
                 a.section-writeUs__js-popup-rules(href="#pravila") Правила обработки персональных данных
         .section-writeUs__third-column
             form.section-writeUs__form
-                label.section-writeUs__form_email-test
-                    input.section-writeUs__form_email(type="email" placeholder="Эл. почта" required)
-                label
-                    input.section-writeUs__form_text(type="text" placeholder="Сообщение" required)
+                label.section-writeUs__form_email-test(for="email")
+                    input.section-writeUs__form_email#email(type="email" placeholder="Эл. почта" required)
+                    |Email
+                label(for="text")
+                    input.section-writeUs__form_text#text(type="text" placeholder="Сообщение" required)
+                    |Text
                 label.hover_border.section-writeUs__form-div_submit
                     input.section-writeUs__form_submit(type="submit" value="Отправить сообщение")
         .section-writeUs__4th-column

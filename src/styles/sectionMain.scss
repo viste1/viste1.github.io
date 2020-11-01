@@ -19,7 +19,7 @@
   display: grid;
   grid-template-areas:
           "first second third";
-  grid-template-rows: 75rem;
+  grid-template-rows: 79rem;
   grid-template-columns: 1fr 56% 20%;
   grid-gap: 0;
 }
@@ -40,14 +40,54 @@
 }
 
 .section-main__second-column{
-  div{
+  picture{
     height: 65rem;
   }
 }
 
 .section-main__third-column{
-  margin-top: 8rem;
+  margin-top: 9rem;
   div{
     margin: 0 0 0.2rem 0;
   }
+}
+
+.section-main__name{
+  margin-left: 1.5rem;
+  font-size: 2.5rem;
+}
+
+.section-main__canvas{
+  color: $bwhite;
+  margin-left: 9rem;
+  padding-right: 2rem;
+}
+
+.section-main__author{
+  color: $bwhite;
+  margin-top: 0.7rem;
+  margin-left: 1.5rem;
+}
+
+.section-main__price{
+  font-size: 2.5rem;
+  color: $gold;
+  margin-left: 9rem;
+}
+
+.section-main__picture-info_grid{
+  display: grid;
+  grid-template-areas:
+          "section-main__name section-main__canvas"
+          "section-main__author section-main__price";
+  grid-template-rows: 3rem;
+  padding: 1rem;
+  color: white;
+  position: absolute;
+  bottom: 1.1rem;
+  left: 0;
+  opacity: 0.7;
+  z-index: 20;
+  background: black;
+  font-size: 2rem;
 }
