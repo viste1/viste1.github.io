@@ -20,15 +20,122 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Session3-4" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Shop" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/assets/img/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/catalog/itemsList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/main_page/promoBlock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/catalog/itemsList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/catalog/mainCatalog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/main_page/bigSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/main_page/mainHomepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/main_page/promoBlock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/slickArrows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/catalog/itemsList.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/nav.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/catalog/itemsList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/catalog/mainCatalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/main_page/bigSlider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/main_page/mainHomepage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/main_page/promoBlock.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/slickArrows.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/birth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/birth.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/birth249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/birth249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/bonapart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/bonapart.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/hunters.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/hunters.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serafim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serafim.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serafim249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serafim249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/serga.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/yavlenie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/yavlenie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/yavlenie249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/yavlenie249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/mainSection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/meta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/popularSection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/scriptsJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/scriptsJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/writeUsSectionRulesPopup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/hovers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionMain.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionPopular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sectionWriteUsPravilaPopup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sliderArrows.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/sliders.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/birth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/birth.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/birth249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/birth249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bonapart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bonapart.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/hunters.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/hunters.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serafim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serafim.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serafim249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serafim249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/serga.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/yavlenie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/yavlenie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/yavlenie249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/yavlenie249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/mainSection.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/meta.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/meta.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/popularSection.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/title.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSection.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/writeUsSectionRulesPopup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/indentSize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/localStorage.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionMain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionPopular.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sectionWriteUsPravilaPopup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sliderArrows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sliders.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +149,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Pug File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="Pug File" />
       </list>
     </option>
   </component>
@@ -69,7 +177,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Session3" />
+        <entry key="$PROJECT_DIR$" value="Session3-4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +199,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Session3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Session223" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,6 +216,8 @@
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\styles\main_page" />
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\pages\includes\main_page" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\vendor\jquery" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\includes" />
     </key>
@@ -169,6 +279,26 @@
       <workItem from="1604222807749" duration="926000" />
       <workItem from="1604233839791" duration="1545000" />
       <workItem from="1604235434906" duration="253000" />
+      <workItem from="1604235699961" duration="55000" />
+      <workItem from="1604341395409" duration="112000" />
+      <workItem from="1604341594130" duration="10000" />
+      <workItem from="1604341651442" duration="6000" />
+      <workItem from="1604422587521" duration="4581000" />
+      <workItem from="1604500934208" duration="4623000" />
+      <workItem from="1604566529517" duration="1235000" />
+      <workItem from="1604586025480" duration="3280000" />
+      <workItem from="1604655937334" duration="595000" />
+      <workItem from="1604659156025" duration="3004000" />
+      <workItem from="1604760089122" duration="8840000" />
+      <workItem from="1604828542161" duration="3919000" />
+      <workItem from="1604835824025" duration="25000" />
+      <workItem from="1604835850241" duration="9796000" />
+      <workItem from="1604846602417" duration="10523000" />
+      <workItem from="1604860091729" duration="4126000" />
+      <workItem from="1604944259111" duration="11599000" />
+      <workItem from="1604994122212" duration="45269000" />
+      <workItem from="1605085763427" duration="31218000" />
+      <workItem from="1605168577554" duration="11522000" />
     </task>
     <servers />
   </component>
@@ -186,7 +316,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Session3-4" />
+                        <option value="Shop" />
                       </list>
                     </value>
                   </entry>
@@ -207,30 +337,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602964601269" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1602871504607">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1604860263599">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602871504607" />
-    <state width="611" height="419" key="Git.Branch.Popup" timestamp="1604235484099">
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
+    <state width="615" height="423" key="Git.Branch.Popup" timestamp="1604422603866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="611" height="419" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604235484099" />
-    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1604094278252">
+    <state width="615" height="423" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604422603866" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604094278252" />
-    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1604094278252">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605128860643" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="363" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604094278252" />
-    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1604094278252">
+    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605128860643" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1605128860642">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="363" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604094278252" />
-    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1604094278252">
+    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605128860642" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="363" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604094278252" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605128860643" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1604094278252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -283,22 +413,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="260" y="246" key="RollbackChangesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603552345094" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1602973755292">
+    <state x="461" y="185" key="SettingsEditor" timestamp="1605107918318">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602973755292" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604235485182">
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604235745801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604235485182" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604235745801" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602966768962" />
-    <state x="634" y="109" width="1070" height="941" key="find.popup" timestamp="1604181800049">
+    <state x="634" y="109" width="1070" height="941" key="find.popup" timestamp="1605108810776">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="634" y="109" width="1070" height="941" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604181800049" />
+    <state x="634" y="109" width="1070" height="941" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605108810776" />
     <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603469952470">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -307,9 +437,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="601" y="265" width="700" height="530" key="recent.locations.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603974866009" />
-    <state x="616" y="250" key="run.anything.popup" timestamp="1604152812458">
+    <state x="616" y="250" key="run.anything.popup" timestamp="1605118482137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604152812458" />
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605118482137" />
   </component>
 </project>

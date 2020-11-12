@@ -1,0 +1,99 @@
+@import "colors";
+
+.footer{
+  background: $black;
+  min-width: 100%;
+}
+.footer__grid-navigation, .footer__grid-copyright{
+  max-width: 144rem;
+  margin: auto;
+}
+
+.footer__grid-navigation{
+  display: grid;
+  grid-template-areas:
+          "blank fetch men women shoes accessories discounts";
+  grid-template-rows: 21.5rem;
+  grid-template-columns: 10.6% 12.95% 12.05% 11.9% 12.7% 13.55% 1fr;
+  padding-top: 3.5rem;
+
+  ul{
+    padding-top: 0.18rem;
+  }
+
+  li{
+    font-size: 1.5rem;
+    margin-left: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding-top: 0.96rem;
+    &:nth-child(1){
+      padding-top: 1.3rem;
+    }
+  }
+
+  a{
+    color: $white;
+    display: inline-block;
+    vertical-align: baseline;
+    line-height: 0.95;
+    border-bottom: 0.1rem $white solid;
+    &:hover{
+      color: $gray;
+      border-color: $gray;
+    }
+  }
+  h3{
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+}
+
+.footer__grid-navigation-fetch{
+  h3{
+    line-height: 0;
+    height: 1.85rem;
+    a{
+      border-color: $black;
+      &:hover{
+        border-color: $black;
+      }
+    }
+  }
+}
+
+.footer__grid-navigation-fetch_contacts{
+  margin-top: 1.8rem;
+  color: $white;
+  .footer__grid-navigation-fetch_contacts-phone{
+      padding-top: 1rem;
+      font-size: 1.5rem;
+      letter-spacing: 0.07rem;
+  }
+  .footer__grid-navigation-fetch_contacts-text{
+    font-size: 1.2rem;
+    font-weight: 100;
+    padding-top: 0.3rem;
+  }
+}
+
+.footer__grid-copyright{
+  display: grid;
+  grid-template-areas:
+          "blank fetch rules dev";
+  grid-template-rows: 5rem;
+  grid-template-columns: 10.6% 10.6% 18.5% 1fr;
+  font-size: 1.3rem;
+  color: $gray;
+  margin-top: 5.1rem;
+  a{
+    color: $gray;
+    display: inline-block;
+    vertical-align: baseline;
+    line-height: 0.9;
+    border-bottom: 0.1rem $gray solid;
+    &:hover{
+      color: $white;
+      border-color: $white;
+    }
+  }
+}

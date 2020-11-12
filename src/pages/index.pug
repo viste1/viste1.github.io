@@ -1,10 +1,12 @@
 doctype html
 html(lang="ru")
     include includes/head
-        include includes/title
+        title Фетч - Главная страница
+        link(rel="stylesheet" href="styles/main_page/mainHomepage.css")
         include includes/meta
     body
-        include includes/mainSection
-        include includes/popularSection
-        include includes/writeUsSection
+        include includes/main_page/mainHeader
+        include includes/main_page/promoBlock
+        section.footer
+            include includes/footer
         include includes/scriptsJS

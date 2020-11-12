@@ -1,4 +1,4 @@
-@import "colors.scss";
+@import "src/styles/colors";
 
 *,
 *::before,
@@ -13,14 +13,11 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   scroll-behavior: smooth;
-  background: $black;
+  background: $white;
 }
 
 body {
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 1.4;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 ul {
@@ -29,43 +26,14 @@ ul {
 
 a {
   text-decoration: none;
-  color: $blue;
-}
-
-h2 {
-  line-height: 0.9;
-  font-size: 6.9rem;
-}
-h3{
-  margin-top: 3rem;
-  font-weight: normal;
-  line-height: 0;
-  font-size: 2.3rem;
-}
-
-.section-main__grid, .section-popular__grid, .section-writeUs__grid{
-  max-width: 191rem;
-  margin: auto;
-}
-
-.section-popular, .section-writeUs{
-  background: $black;
-  color: $white;
-  h3{
-    color: $silver;
+  color: $black;
+  outline: none;
+  &:hover{
+    color: $blue;
   }
 }
 
-.section-main__first-column, .section-main__second-column, .section-popular__first-row{
-  margin: 4rem 5rem;
+section{
+  max-width: 144rem;
+  margin: auto;
 }
-
-.slick-slide{
-  outline: none;
-}
-
-@import "sliders.scss";
-@import "hovers.scss";
-@import "sectionMain.scss";
-@import "sectionPopular.scss";
-@import "sectionWriteUs.scss";

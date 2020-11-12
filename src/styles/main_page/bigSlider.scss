@@ -1,0 +1,68 @@
+@import "../colors.scss";
+
+.main-header__slider-text {
+  max-width: 40rem;
+  font-size: 6.2rem;
+  font-weight: 600;
+  position: absolute;
+  z-index: 20;
+  bottom: 7.7rem;
+  left: 15.2rem;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0.12rem;
+  &:hover{
+    span{
+      border-color: $blue;
+    }
+  }
+  span{
+    display: inline-block;
+    vertical-align: baseline;
+    border-bottom: 0.35rem $black solid;
+    line-height: 0.95;
+  }
+}
+
+.main-header__grid-under-bigSlider_text{
+  padding-left: 15.35rem;
+  padding-top: 4.55rem;
+  letter-spacing: 0.072rem;
+  font-size: 1.1rem;
+  span{
+    font-weight: 100;
+  }
+  p{
+    padding-top: 1.5rem;
+    line-height: 1.49;
+    font-size: 1.62rem;
+  }
+}
+
+.main-header__grid-under-bigSlider_navigation{
+  padding-left: 5.25rem;
+}
+
+.main-header__grid-under-bigSlider{
+  display: grid;
+  grid-template-areas: "fetch footer";
+  grid-template-columns: 27% 73%;
+  .footer__grid-navigation{
+    grid-template-columns: 0 15.8% 15.5% 16.8% 18%;
+    margin-top: 1.3rem;
+    a{
+      color: $blue;
+      border-color: $blue;
+      &:hover{
+        color: $gray;
+        border-color: $gray;
+      }
+    }
+    .footer__grid-navigation-fetch{
+      display: none;
+    }
+  }
+  .footer__grid-copyright{
+    display: none;
+  }
+}

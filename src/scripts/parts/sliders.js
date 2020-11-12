@@ -4,8 +4,7 @@ function initSliderSectionMainFull() {
         slidesToScroll: 1,
         lazyLoad: 'progressive',
         fade: true,
-        infinite: false,
-        asNavFor: '.section-main__js-slider-mini'
+        infinite: true
     })
 }
 
