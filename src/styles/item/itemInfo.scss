@@ -28,7 +28,7 @@
 }
 .item-info__grid-select{
   grid-area: item-info__grid-select;
-  background: $light-gray;
+  background: $lightest-gray;
   width: 45rem;
 }
 .item-info__grid-info{
@@ -37,14 +37,14 @@
 }
 .item-info__grid-photo{
   grid-area: item-info__grid-photo;
-  background: $light-gray;
+  background: $lightest-gray;
   height: 82rem;
 }
 
 .item-info__grid-info{
   h3{
     font-size: 1.3rem;
-    color: $lightest-gray;
+    color: $light-gray;
   }
   p{
     font-size: 1.8rem;

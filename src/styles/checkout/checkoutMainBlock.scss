@@ -17,43 +17,105 @@
   }
 }
 
-.section-checkout-main__grid-right-container {
-  margin-top: 7.3rem;
+.section-checkout-main__grid-left-container_items{
+  height: 61.6rem;
   background: $lightest-gray;
+}
+
+.section-checkout-main__grid-right-container{
+  margin-top: 7.3rem;
   height: 47rem;
 }
 
-.section-checkout-main__grid-right-container_form{
+.section-checkout-main__grid-right-container__areas{
   height: 37.2rem;
-}
-
-.section-checkout-main__grid-right-container_form-button{
-  height: 9.8rem;
-  background: $light-gray;
-}
-
-.section-checkout-main__grid-left-container_items{
-  height: 61.6rem;
-  background: $light-gray;
-}
-
-.section-checkout-main__grid-right-container_form-button__grid{
-  display: grid;
-  grid-template-areas: "text button";
-  grid-template-columns: 7.5rem 32.5rem;
-  height: 5.5rem;
-  background: yellow;
-  &:hover{
-    border: 0.5rem $blue solid;
+  ::-webkit-input-placeholder {color: $gray-border; font-family: 'PT Sans', sans-serif;}
+  ::-moz-placeholder {color: $gray-border; font-family: 'PT Sans', sans-serif;}
+  ::-ms-input-placeholder {color: $gray-border; font-family: 'PT Sans', sans-serif;}
+  ::-moz-placeholder {color: $gray-border; font-family: 'PT Sans', sans-serif;}
+  input, textarea{
+    border-radius: 2px;
+    border: 1px solid $gray-border;
+    background: $gray-input;
   }
 }
 
-.section-checkout-main__grid-right-container_form-button__grid_text{
-  grid-area: text;
-  color: green;
+.section-checkout-main__grid-right-container__grid{
+  height: 9.8rem;
+  background: $lightest-gray;
 }
 
-.section-checkout-main__grid-right-container_form-button__grid_button{
-  grid-area: button;
-  color: red;
+.section-checkout-main__grid-right-container__areas-email_label,
+.section-checkout-main__grid-right-container__areas-tel_label,
+.section-checkout-main__grid-right-container__areas-city_label,
+.section-checkout-main__grid-right-container__areas-address_label{
+  margin-left: 2.4rem;
+  font-size: 1.6rem;
+  p{
+    font-size: 1.3rem;
+    margin: 0.4rem 0 0 13.9rem;
+    color: $gray;
+  }
+  input{
+    width: 26.5rem;
+    height: 4.2rem;
+  }
+}
+
+.section-checkout-main__grid-right-container__areas-email_input{
+  margin-left: 4rem;
+}
+
+.section-checkout-main__grid-right-container__areas-tel_input{
+  margin: 2.4rem 0 0 4.4rem;
+}
+
+.section-checkout-main__grid-right-container__areas-city_input{
+  margin: 4rem 0 0 6.3rem;
+
+}
+
+.section-checkout-main__grid-right-container__areas-address_text{
+  padding-top: 1rem;
+  margin: 2.4rem 0 0 6.1rem;
+  height: 8.4rem;
+  width: 26.5rem;
+  vertical-align: middle;
+  resize: none;
+}
+.section-checkout-main__grid-right-container__areas-email_input,
+.section-checkout-main__grid-right-container__areas-tel_input,
+.section-checkout-main__grid-right-container__areas-city_input,
+.section-checkout-main__grid-right-container__areas-address_text{
+  padding-left: 1.2rem;
+  font-size: 1.6rem;
+}
+
+.section-checkout-main__grid-right-container__grid_text{
+  grid-area: checkout-text;
+  margin: 2.8rem 0 1.9rem 2.4rem;
+  p{
+    font-size: 1.3rem;
+  }
+}
+
+.section-checkout-main__grid-right-container__grid_button{
+  grid-area: checkout-button;
+  padding: 2.4rem 6.4rem 3.2rem 4rem;
+}
+
+.section-checkout-main__grid-right-container__grid{
+  display: grid;
+  grid-template-areas: "checkout-text checkout-button";
+  height: 9.8rem;
+  grid-template-columns: 15.4rem 1fr;
+}
+
+.section-checkout-main__grid-right-container__grid_button-submit{
+  background: linear-gradient(180deg, $yellow 0%, $yellow-dark 100%);
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.6rem;
+  width: 23rem;
+  height: 4.2rem;
+  box-shadow: 0 0 15px $yellow;
 }
