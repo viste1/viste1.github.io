@@ -65,7 +65,7 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$" source="Session3" />
-                <branch-info repo="$PROJECT_DIR$" source="Shop" />
+                <branch-info repo="$PROJECT_DIR$" source="shop-main" />
               </list>
             </value>
           </entry>
@@ -254,11 +254,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="627" height="435" key="Git.Branch.Popup" timestamp="1605492253447">
+    <state width="633" height="441" key="Git.Branch.Popup" timestamp="1605516279576">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="627" height="435" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605492253447" />
+    <state width="633" height="441" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605516279576" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -331,11 +331,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605492256180">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605516283208">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605492256180" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605516283208" />
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1" timestamp="1602966768962">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
