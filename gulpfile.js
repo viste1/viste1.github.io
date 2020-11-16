@@ -16,7 +16,6 @@ var imagemin = require('gulp-imagemin');
 
 var webpack = require('webpack-stream');
 
-// Девсервер
 function devServer(cb) {
   var params = {
     watch: true,
@@ -29,7 +28,6 @@ function devServer(cb) {
   cb();
 }
 
-// Сборка
 function buildPages() {
   return src('src/pages/**/*.html')
       .pipe(dest('build/'));
@@ -91,7 +89,6 @@ function clearBuild() {
   return del('build/');
 }
 
-// Отслеживание
 function watchFiles() {
     watch('src/assets/**/*.*', buildAssets);
     watch('src/pages/**/*.html', buildPages);
