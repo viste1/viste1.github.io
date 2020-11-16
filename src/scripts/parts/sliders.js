@@ -8,14 +8,25 @@ function initSliderSectionMainFull() {
     })
 }
 
-function initSliderSectionMainMini() {
-    $('.section-main__js-slider-mini').slick({
+
+function initSliderSectionItemFull() {
+    $('.item-info__grid-photo__js-slider-full').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        lazyLoad: 'progressive',
+        fade: true,
+        infinite: false,
+        asNavFor: '.item-info__grid-photo__js-slider-mini'
+    })
+}
+
+function initSliderSectionItemMini() {
+    $('.item-info__grid-photo__js-slider-mini').slick({
         slidesToShow: 3,
         slidesToScroll: 1,
         lazyLoad: 'progressive',
-        vertical: true,
         infinite: false,
-        asNavFor: '.section-main__js-slider-full',
+        asNavFor: '.item-info__grid-photo__js-slider-full',
         arrows: false,
         focusOnSelect: true
     })
@@ -33,6 +44,7 @@ function initSliderSectionRecommendations() {
 
 export default function initSliders() {
     initSliderSectionMainFull();
-    initSliderSectionMainMini();
+    initSliderSectionItemMini();
+    initSliderSectionItemFull();
     initSliderSectionRecommendations();
 }
