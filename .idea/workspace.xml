@@ -27,15 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/slickArrows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/slickArrows.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +70,7 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$" source="Session3" />
-                <branch-info repo="$PROJECT_DIR$" source="Shop" />
+                <branch-info repo="$PROJECT_DIR$" source="shop-main" />
               </list>
             </value>
           </entry>
@@ -221,7 +214,7 @@
       <workItem from="1605490702712" duration="311000" />
       <workItem from="1605491070728" duration="180000" />
       <workItem from="1605491341537" duration="811000" />
-      <workItem from="1605516930876" duration="97000" />
+      <workItem from="1605516930876" duration="307000" />
     </task>
     <servers />
   </component>
@@ -269,11 +262,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="629" height="437" key="Git.Branch.Popup" timestamp="1605516662959">
+    <state width="631" height="439" key="Git.Branch.Popup" timestamp="1605517105676">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="629" height="437" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605516662959" />
+    <state width="631" height="439" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605517105676" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -350,11 +343,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605516667259">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605517111519">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605516667259" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605517111519" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
