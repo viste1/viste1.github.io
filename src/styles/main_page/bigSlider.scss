@@ -1,7 +1,7 @@
 @import "../colors.scss";
 
 .main-header__slider-text {
-  max-width: 40rem;
+  max-width: 41rem;
   font-size: 6.2rem;
   font-weight: 600;
   position: absolute;
@@ -40,7 +40,7 @@
 }
 
 .main-header__grid-under-bigSlider_navigation{
-  padding-left: 5.25rem;
+  padding-left: 5.1rem;
 }
 
 .main-header__grid-under-bigSlider{
@@ -65,4 +65,12 @@
   .footer__grid-copyright{
     display: none;
   }
+}
+
+.section-main__js-slider-full{
+  height: 60rem;
+}
+
+.main-header__grid-under-bigSlider{
+  margin-top: 0.3rem;
 }

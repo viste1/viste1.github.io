@@ -18,6 +18,9 @@ html {
 
 body {
   font-family: 'PT Sans', sans-serif;
+  @font-face {
+    font-display: swap;
+  }
 }
 
 ul {
@@ -29,6 +32,7 @@ a {
   color: $black;
   outline: none;
   &:hover{
+    cursor: url("/assets/img/cursors/pointer.png"), pointer;
     color: $blue;
   }
 }

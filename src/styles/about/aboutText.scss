@@ -1,0 +1,72 @@
+@import "../colors.scss";
+
+.about-section__grid{
+  width: 113.6rem;
+  height: 42rem;
+  margin: 3.2rem 15.2rem 6.4rem 15.2rem;
+  display: grid;
+  grid-template-areas: "about info";
+  grid-template-columns: 46.4rem 58.6rem;
+  grid-column-gap: 8.6rem;
+}
+
+.about-section__grid-about{
+  h1{
+    font-size: 3.2rem;
+  }
+  ul{
+    margin-top: 3.2rem;
+  }
+  li{
+    padding-top: 1.6rem;
+    font-size: 1.8rem;
+    &:nth-child(1){
+      padding-top: 0;
+    }
+  }
+}
+
+.about-section__grid-info{
+  margin-top: 4.6rem;
+  height: 35.4rem;
+}
+
+.about-section__grid-info_text{
+  margin: 2.7rem 6rem 3.2rem 2.6rem;
+  font-size: 1.6rem;
+}
+
+.about-section__grid-info_text_contacts{
+  margin-top: 1.8rem;
+  .about-section__grid-info_text-phone{
+    font-weight: 600;
+    padding-top: 1.1rem;
+    font-size: 1.45rem;
+    letter-spacing: 0.095rem;
+  }
+  .about-section__grid-info-text-email{
+    display: inline-block;
+    vertical-align: baseline;
+    border-bottom: 0.1rem $black solid;
+    line-height: 0.95;
+    font-size: 1.6rem;
+    &:hover{
+      border-bottom: 0.1rem $blue solid;
+    }
+  }
+  .about-section__grid-info_text-call{
+    font-size: 1.2rem;
+    font-weight: 100;
+    padding-top: 0.3rem;
+    letter-spacing: 0.050rem;
+  }
+}
+
+.about-section__grid-info_text_account{
+  li{
+    padding-top: 2rem;
+    &:nth-child(1){
+      padding-top: 3rem;
+    }
+  }
+}

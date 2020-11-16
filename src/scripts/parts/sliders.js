@@ -21,9 +21,9 @@ function initSliderSectionMainMini() {
     })
 }
 
-function initSliderSectionPopular() {
-    $('.section-popular__js-slider-full').slick({
-        slidesToShow: 3,
+function initSliderSectionRecommendations() {
+    $('.section-recommendations__js-slider-full').slick({
+        slidesToShow: 4,
         slidesToScroll: 1,
         lazyLoad: 'progressive',
         infinite: true,
@@ -34,5 +34,5 @@ function initSliderSectionPopular() {
 export default function initSliders() {
     initSliderSectionMainFull();
     initSliderSectionMainMini();
-    initSliderSectionPopular();
+    initSliderSectionRecommendations();
 }

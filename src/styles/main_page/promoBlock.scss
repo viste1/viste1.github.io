@@ -17,6 +17,9 @@
   grid-template-columns: 46.4rem 1fr;
   grid-column-gap: 1.7rem;
   grid-row-gap: 2.4rem;
+  a:hover{
+    border: 0.5rem $blue solid;
+  }
 }
 .promo-block__grid_block1{
   grid-area: promo-block__grid_block1;

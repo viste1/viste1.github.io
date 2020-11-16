@@ -14,7 +14,7 @@
 }
 
 .catalog-items-list__big-block{
-  h2{
+  h1{
     color: $white;
     font-size: 3rem;
     max-width: 117.6rem;
@@ -38,6 +38,9 @@
 .catalog-items-list__big-block__grid_item{
   height: 34.4rem;
   background: $light-gray;
+  &:hover{
+    border: 0.5rem $blue solid;
+  }
 }
 
 .catalog-items-list__big-block__pages{

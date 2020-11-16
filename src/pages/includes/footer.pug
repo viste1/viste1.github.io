@@ -1,82 +1,107 @@
 .footer__grid-navigation
     .footer__grid-navigation-blank
-    .footer__grid-navigation-fetch
+    .footer__grid-navigation-fetch(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
         h3
-            a("href=#") Фетч
-        ul
+            a("href=/about.html" itemprop="url" ) Фетч
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/about.html" itemprop="url" )
+                    span(itemprop="name") Магазин
+            li(itemprop="itemListElement")
+                a("href=/about.html" itemprop="url" )
+                    span(itemprop="name") Блог
+            li(itemprop="itemListElement")
+                a("href=/about.html" itemprop="url" )
+                    span(itemprop="name") Доставка и оплата
+        ul.footer__grid-navigation-fetch_contacts(itemscope itemtype="https://schema.org/Store")
             li
-                a("href=#") Магазин
-            li
-                a("href=#") Блог
-            li
-                a("href=#") Доставка и оплата
-        ul.footer__grid-navigation-fetch_contacts
-            li
-                a("href=#") shop@fetch.ru
+                a(href="mailto:shop@fetch.ru" itemprop="email") shop@fetch.ru
             li.footer__grid-navigation-fetch_contacts-phone
-                p 8 800 912-11-42
+                p(itemprop="telephone") 8 800 912-11-42
             li.footer__grid-navigation-fetch_contacts-text
                 p Звонок бесплатный
-    .footer__grid-navigation-men
-        a("href=#")
+    .footer__grid-navigation-men(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a("href=/catalog.html" itemprop="url" )
             h3 Для мужчин
-        ul
-            li
-                a("href=#") Верзняя одежда
-            li
-                a("href=#") Рубашки и поло
-            li
-                a("href=#") Трикотаж
-            li
-                a("href=#") Брюки и джинсы
-            li
-                a("href=#") Бельё и носки
-    .footer__grid-navigation-women
-        a("href=#")
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Верхняя одежда
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Рубашки и поло
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Трикотаж
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Брюки и джинсы
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Бельё и носки
+    .footer__grid-navigation-women(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a("href=/catalog.html" itemprop="url" )
             h3 Для женщин
-        ul
-            li
-                a("href=#") Верзняя одежда
-            li
-                a("href=#") Рубашки и поло
-            li
-                a("href=#") Трикотаж
-            li
-                a("href=#") Поатья и юбки
-            li
-                a("href=#") Бельё и носки
-    .footer__grid-navigation-shoes
-        a("href=#")
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Верзняя одежда
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Рубашки и поло
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Трикотаж
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url")
+                    span(itemprop="name") Поатья и юбки
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url")
+                    span(itemprop="name") Бельё и носки
+    .footer__grid-navigation-shoes(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a("href=/catalog.html" itemprop="url" )
             h3 Обувь
-        ul
-            li
-                a("href=#") Кроссовки и кеды
-            li
-                a("href=#") Ботинки
-    .footer__grid-navigation-accessories
-        a("href=#")
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Кроссовки и кеды
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Ботинки
+    .footer__grid-navigation-accessories(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a("href=/catalog.html" itemprop="url" )
             h3 Аксессуары
-        ul
-            li
-                a("href=#") Сумки и рюкзаки
-            li
-                a("href=#") Часы
-            li
-                a("href=#") Бижутерия
-            li
-                a("href=#") Средства для ухода
-    .footer__grid-navigation-discounts
-        a("href=#")
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Сумки и рюкзаки
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Часы
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Бижутерия
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Средства для ухода
+    .footer__grid-navigation-discounts(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a("href=/catalog.html" itemprop="url" )
             h3 Скидки
-        ul
-            li
-                a("href=#") Летняя распродажа
-            li
-                a("href=#") Коллекция 2018
+        ul(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Летняя распродажа
+            li(itemprop="itemListElement")
+                a("href=/catalog.html" itemprop="url" )
+                    span(itemprop="name") Коллекция 2018
 .footer__grid-copyright
     .footer__grid-copyright-blank
     .footer__grid-copyright_fetch © Фетч-команда, 2019
-    .footer__grid-copyright_rules
-        a("href=#") Правила обработки персональных данных
-    .footer__grid-copyright_dev
-        a("href=#") Разработка и поддержка сайта
+    .footer__grid-copyright_rules(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a(href="#pravila" itemprop="url" ).section-footer__js-popup-rules
+            span(itemprop="name") Правила обработки персональных данных
+    .footer__grid-copyright_dev(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a(href="https://github.com/viste1/viste1.github.io" itemprop="url")
+            span(itemprop="name") Разработка и поддержка сайта
+
+include footerRulesPopup

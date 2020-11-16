@@ -1,9 +1,10 @@
 section.catalog-items-list
     .catalog-items-list__big-block
-        h2 Обувь
+        h1 Обувь
         .catalog-items-list__big-block__black
         .catalog-items-list__big-block__grid
             - let n = 1;
                 while n <= 16
-                    .catalog-items-list__big-block__grid_item(class='catalog-items-list__big-block_grid-item'+n++)
+                    a(href="/item.html")
+                        .catalog-items-list__big-block__grid_item(class='catalog-items-list__big-block_grid-item'+n++)
         p.catalog-items-list__big-block__pages Страницы

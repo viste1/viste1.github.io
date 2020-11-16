@@ -1,22 +1,26 @@
 section.main-header
     .section-main__js-slider-full
-        .slider__item
+        .slider__item(itemscope itemtype="https://schema.org/Product")
             include ../nav
-            img(data-lazy="assets/img/image2.jpg" width="1440" height="600" alt="Явление")
-            a.main-header__slider-text(href="#")
-                span Reebok Aztrek
-                span Double
-        .slider__item
+            picture(itemprop="image")
+                source(data-lazy="assets/img/homepage/main_bigSlider_1.webp" type='image/webp')
+                img(data-lazy="assets/img/homepage/main_bigSlider_1.jpg" width="1440" height="600" alt="Больщое изображение на слайдере, на главной странице")
+            a.main-header__slider-text(href="/item.html" itemprop="url")
+                span(itemprop="name") Reebok Aztrek
+                span(itemprop="name") Double
+        .slider__item(itemscope itemtype="https://schema.org/Product")
             include ../nav
-            img(data-lazy="assets/img/image2.jpg" width="1440" height="600" alt="Явление")
-            a.main-header__slider-text(href="#")
-                span Reebok Aztrek
-                span Double
+            picture(itemprop="image")
+                source(data-lazy="assets/img/homepage/main_bigSlider_1.webp" type='image/webp')
+                img(data-lazy="assets/img/homepage/main_bigSlider_1.jpg" width="1440" height="600" alt="Больщое изображение на слайдере, на главной странице")
+            a.main-header__slider-text(href="/item.html" itemprop="url")
+                span(itemprop="name") Reebok Aztrek
+                span(itemprop="name") Double
     .main-header__grid-under-bigSlider
         .main-header__grid-under-bigSlider_text
             h1 Фетч
                 span  — мультибрендовый магазин модной одежды.
-            p Слежим за трендами и часто обновляем ассортимент.
+            p Следим за трендами и часто обновляем ассортимент.
             p
                 | Доставляем по Москве
                 br

@@ -1,0 +1,85 @@
+@import "../colors.scss";
+
+.item-info__grid{
+  display: grid;
+  margin: 3.2rem 0 0 12.9rem;
+  grid-template-areas:
+    "item-info__grid-name item-info__grid-photo"
+    "item-info__grid-select item-info__grid-photo"
+    "item-info__grid-info item-info__grid-photo";
+  grid-template-rows: 10.7rem 26.7rem 73.3rem;
+  grid-template-columns: 46.4rem 65.6rem;
+  grid-column-gap: 4rem;
+  grid-row-gap: 3.2rem;
+}
+
+.item-info__grid-name{
+  grid-area: item-info__grid-name;
+  margin-left: 2.3rem;
+  letter-spacing: 0;
+  h1{
+    font-size: 3.2rem;
+    line-height: 1.3;
+  }
+  p{
+    margin-top: 0.8rem;
+    font-size: 1.3rem;
+  }
+}
+.item-info__grid-select{
+  grid-area: item-info__grid-select;
+  background: $light-gray;
+  width: 45rem;
+}
+.item-info__grid-info{
+  grid-area: item-info__grid-info;
+  margin-left: 2.3rem;
+}
+.item-info__grid-photo{
+  grid-area: item-info__grid-photo;
+  background: $light-gray;
+  height: 82rem;
+}
+
+.item-info__grid-info{
+  h3{
+    font-size: 1.3rem;
+    color: $lightest-gray;
+  }
+  p{
+    font-size: 1.8rem;
+    margin-top: 0.15rem;
+    color: $black;
+  }
+}
+
+.item-info__grid-info-top{
+  display: -webkit-box;
+  margin-top: 0.9rem;
+  p{
+    letter-spacing: 0.025rem;
+  }
+  li{
+    &:nth-child(2){
+      margin-left: 3.1rem;
+    }
+  }
+}
+
+.item-info__grid-info-description{
+  margin: 3.2rem 3.5rem 0 0;
+  li{
+    padding-top: 1.3rem;
+    &:nth-child(1){
+      padding-top: 0;
+    }
+  }
+}
+
+.item-info__grid-info-details{
+  margin-top: 3.3rem;
+  ul{
+    margin-top: 0.5rem;
+    line-height: 2.1rem;
+  }
+}
