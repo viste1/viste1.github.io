@@ -12,16 +12,16 @@
   outline-offset: 0;
   transition: all 2000ms cubic-bezier(0.19, 1, 0.22, 1);
   &:hover{
-    cursor: url("/assets/img/cursors/pointer.png"), pointer;
+    cursor: url("/,,/assets/img/cursors/pointer.png"), pointer;
     opacity: 0.5;
   }
 }
 
 .slick-prev{
   left: 0;
-  background: url("/assets/img/slider_arrows/arr-left.svg") 0 0 / 100% no-repeat;
+  background: url("/,,/assets/img/slider_arrows/arr-left.svg") 0 0 / 100% no-repeat;
 }
 .slick-next{
   right: 0;
-  background: url("/assets/img/slider_arrows/arr-right.svg") 0 0 / 100% no-repeat;
+  background: url("/,,/assets/img/slider_arrows/arr-right.svg") 0 0 / 100% no-repeat;
 }
