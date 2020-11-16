@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="" />
+    <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/slickArrows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/slickArrows.scss" afterDir="false" />
+    </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,15 +120,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3" />
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\styles\main_page" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\pages\includes\main_page" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\vendor\jquery" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\includes" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3" />
-      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -213,6 +217,7 @@
       <workItem from="1605491341537" duration="811000" />
       <workItem from="1605516930876" duration="498000" />
       <workItem from="1605517445855" duration="314000" />
+      <workItem from="1605517776557" duration="578000" />
     </task>
     <servers />
   </component>
@@ -260,11 +265,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="639" height="447" key="Git.Branch.Popup" timestamp="1605517727079">
+    <state width="641" height="449" key="Git.Branch.Popup" timestamp="1605517939135">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="639" height="447" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605517727079" />
+    <state width="641" height="449" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605517939135" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -341,11 +346,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605517727981">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605517940681">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605517727981" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605517940681" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
