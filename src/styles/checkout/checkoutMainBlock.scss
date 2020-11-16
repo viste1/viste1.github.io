@@ -14,6 +14,11 @@
   h1{
     padding-left: 2.5rem;
     margin-bottom: 3.2rem;
+    span{
+      &:nth-child(2){
+        color: $gray-border;
+      }
+    }
   }
 }
 
@@ -123,8 +128,4 @@
     cursor: url("https://viste1.github.io/build/assets/img/cursors/pointer.png"), pointer;
     background: linear-gradient(180deg, #F5BF00 0%, #F0AD00 100%);
   }
-}
-
-.section-checkout-main__grid-left-container_dot-span{
-  color: $gray-border;
 }
