@@ -27,47 +27,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-656.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-140.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-656.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/lazy-placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/main_bigSlider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vendor/lazy/jquery.lazy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/lazy-placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/parts/lazypicture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/lazy/jquery.lazy.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/includes/item/itemInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/recommendations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/scriptsJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/scriptsJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/item/itemInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/itemInfo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,9 +68,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="package.json" />
         <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -262,7 +248,8 @@
       <workItem from="1605561522504" duration="252000" />
       <workItem from="1605562021621" duration="172000" />
       <workItem from="1605562399095" duration="1288000" />
-      <workItem from="1605604726339" duration="3031000" />
+      <workItem from="1605604726339" duration="3236000" />
+      <workItem from="1605615825624" duration="15189000" />
     </task>
     <servers />
   </component>
@@ -297,11 +284,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605486479108">
+    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605627955339">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602964601269" />
-    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605486479108" />
+    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605627955339" />
     <state x="588" y="105" key="CommitChangelistDialog2" timestamp="1605516576558">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -310,11 +297,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="685" height="493" key="Git.Branch.Popup" timestamp="1605563672011">
+    <state width="687" height="495" key="Git.Branch.Popup" timestamp="1605607867102">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="685" height="493" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605563672011" />
+    <state width="687" height="495" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605607867102" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -391,11 +378,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605563673167">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605607875830">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605563673167" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605607875830" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -417,11 +404,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="601" y="265" width="700" height="530" key="recent.locations.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603974866009" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605468841848">
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605621463116">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605118482137" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605468841848" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605621463116" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605551132665">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
