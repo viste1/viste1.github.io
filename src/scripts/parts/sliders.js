@@ -16,13 +16,14 @@ function initSliderSectionItemFull() {
         lazyLoad: 'progressive',
         fade: true,
         infinite: false,
+        arrows: false,
         asNavFor: '.item-info__grid-photo__js-slider-mini'
     })
 }
 
 function initSliderSectionItemMini() {
     $('.item-info__grid-photo__js-slider-mini').slick({
-        slidesToShow: 3,
+        slidesToShow: 4,
         slidesToScroll: 1,
         lazyLoad: 'progressive',
         infinite: false,

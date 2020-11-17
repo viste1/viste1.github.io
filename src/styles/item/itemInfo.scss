@@ -26,19 +26,16 @@
     font-size: 1.3rem;
   }
 }
+
 .item-info__grid-select{
   grid-area: item-info__grid-select;
   background: $lightest-gray;
   width: 45rem;
 }
+
 .item-info__grid-info{
   grid-area: item-info__grid-info;
   margin-left: 2.3rem;
-}
-.item-info__grid-photo{
-  grid-area: item-info__grid-photo;
-  background: $lightest-gray;
-  height: 82rem;
 }
 
 .item-info__grid-info{
@@ -81,5 +78,28 @@
   ul{
     margin-top: 0.5rem;
     line-height: 2.1rem;
+  }
+}
+
+.item-info__grid-photo{
+  grid-area: item-info__grid-photo;
+  height: 82rem;
+}
+
+.item-info__grid-photo__js-slider-full{
+  height: 65.6rem;
+  width: 65.6rem;
+  outline: 0;
+  border: none;
+}
+
+.item-info__grid-photo__js-slider-mini{
+  margin-top: 2.4rem;
+  height: 14rem;
+  width: 62.1rem;
+  outline: 0;
+  border: none;
+  .slick-current{
+    opacity: 0.3;
   }
 }

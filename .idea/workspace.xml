@@ -27,13 +27,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image1-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image2-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image3-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/item/image4-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image1-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image2-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image3-656.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/item/image4-656.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/catalog/itemsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/catalog/itemsList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/main_page/promoBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/promoBlock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/catalog/itemsList.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/catalog/itemsList.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/item/itemInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/item/itemInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/itemInfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +261,8 @@
       <workItem from="1605559792529" duration="1646000" />
       <workItem from="1605561522504" duration="252000" />
       <workItem from="1605562021621" duration="172000" />
-      <workItem from="1605562399095" duration="810000" />
+      <workItem from="1605562399095" duration="1288000" />
+      <workItem from="1605604726339" duration="3031000" />
     </task>
     <servers />
   </component>
@@ -275,11 +310,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="683" height="491" key="Git.Branch.Popup" timestamp="1605562178948">
+    <state width="685" height="493" key="Git.Branch.Popup" timestamp="1605563672011">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="683" height="491" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605562178948" />
+    <state width="685" height="493" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605563672011" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -356,11 +391,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605562180774">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605563673167">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605562180774" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605563673167" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
