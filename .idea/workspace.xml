@@ -225,7 +225,7 @@
       <workItem from="1605562021621" duration="172000" />
       <workItem from="1605562399095" duration="1288000" />
       <workItem from="1605604726339" duration="3236000" />
-      <workItem from="1605615825624" duration="15591000" />
+      <workItem from="1605615825624" duration="15762000" />
     </task>
     <servers />
   </component>
@@ -273,11 +273,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="689" height="497" key="Git.Branch.Popup" timestamp="1605632719861">
+    <state width="693" height="501" key="Git.Branch.Popup" timestamp="1605633071381">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="689" height="497" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605632719861" />
+    <state width="693" height="501" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605633071381" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -354,11 +354,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605632732915">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605633072580">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605632732915" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605633072580" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
