@@ -1,4 +1,6 @@
 @import "../colors.scss";
+@import "itemSizesPopup";
+@import "../buttonStyles";
 
 .item-info__grid{
   display: grid;
@@ -98,4 +100,91 @@
   .slick-current{
     opacity: 0.3;
   }
+}
+
+.item-info__grid-select-container{
+  margin: 2.4rem 0 0 2.3rem;
+  width: 42.6rem;
+  height: 26.3rem;
+}
+
+.item-info__grid-select-container__form-color_input, .item-info__grid-select-container__form-size_input{
+  display: none;
+}
+
+.item-info__grid-select-container__form-color-input-group, .item-info__grid-select-container__form-size-input-group {
+  margin-top: .5rem;
+  height: 3.2rem;
+  margin-right: 1.2rem;
+  label{
+    padding: .5rem .8rem .5rem .8rem;
+    color: $gray;
+    background: $white;
+    border: 1px solid $gray-border;
+    border-radius: 8px;
+    text-align: center;
+  }
+  input:checked ~ label {
+    border-color: $gray;
+    background: $gray;
+    color:white;
+  }
+  input:hover ~ label{
+    border-color: $gray;
+    cursor: url("https://viste1.github.io/build/assets/img/cursors/pointer.png"), pointer;
+  }
+}
+
+.item-info__grid-select-container__form-colors-container{
+  display: flex;
+  font-size: 1.6rem;
+  span{
+    margin-top: .5rem;
+    margin-right: 6.8rem;
+  }
+}
+
+.item-info__grid-select-container__form-color-input-group:nth-child(3){
+  label{
+    padding: .5rem 1.4rem .5rem 1.4rem;
+  }
+}
+
+.item-info__grid-select-container__form-sizes-container{
+  display: grid;
+  grid-template-areas: "name first_size second_size third_size 4th_size";
+  height: 3.2rem;
+  grid-template-columns: 10rem 5.4rem 5.4rem 5.4rem;
+  font-size: 1.6rem;
+  margin-top: 1.4rem;
+  span{
+    margin-top: 1rem;
+  }
+}
+
+.item-info__grid-select-container__form-size-input-group{
+  label{
+    position: absolute;
+    min-width: 4.2rem;
+  }
+}
+
+.item-info__grid-select-container__form-size-table__js-popup-sizes{
+  span{
+    margin-top: 3.2rem;
+    font-size: 1.3rem;
+    display: inline-block;
+    vertical-align: baseline;
+    line-height: 0.95;
+    border-bottom: 0.1rem $black solid;
+    &:hover{
+      color: $blue;
+      border-color: $blue;
+    }
+  }
+}
+
+.item-info__grid-select-container__form-submit_button_input{
+  padding: 0 2.5rem;
+  margin-top: 4rem;
 }

@@ -1,4 +1,5 @@
-@import "../colors.scss";
+@import "../colors";
+@import "../buttonStyles";
 
 .section-checkout-main__grid{
   margin: 3.2rem 24.8rem 0 12.8rem;
@@ -114,19 +115,4 @@
   grid-template-areas: "checkout-text checkout-button";
   height: 9.8rem;
   grid-template-columns: 15.4rem 1fr;
-}
-
-.section-checkout-main__grid-right-container__grid_button-submit{
-  background: linear-gradient(180deg, $yellow 0%, $yellow-dark 100%);
-  font-family: 'PT Sans', sans-serif;
-  font-size: 1.6rem;
-  font-weight: bold;
-  width: 23rem;
-  height: 4.2rem;
-  box-shadow: 0 0 15px $yellow;
-  &:hover{
-    box-shadow: 0 0 0 $yellow;
-    cursor: url("https://viste1.github.io/build/assets/img/cursors/pointer.png"), pointer;
-    background: linear-gradient(180deg, #F5BF00 0%, #F0AD00 100%);
-  }
 }

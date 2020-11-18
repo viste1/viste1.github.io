@@ -4,6 +4,35 @@ section.item-item-info
             h1 Maison Margiela Fusion Low Sneakers
             p Кроссовки
         .item-info__grid-select
+            .item-info__grid-select-container
+                form.item-info__grid-select-container__form
+                    .item-info__grid-select-container__form-colors-container
+                        span Цвет
+                        .item-info__grid-select-container__form-color-input-group
+                            input.item-info__grid-select-container__form-color_input#first-color(type="radio", name="colors" value="white-pink" checked)
+                            label.item-info__grid-select-container__form-color_label(for="first-color") Белый с розовым
+                        .item-info__grid-select-container__form-color-input-group
+                            input.item-info__grid-select-container__form-color_input#second-color(type="radio", name="colors" value="white-green")
+                            label.item-info__grid-select-container__form-color_label(for="second-color") Белый с зелёным
+                    .item-info__grid-select-container__form-sizes-container
+                        span Размер US
+                        .item-info__grid-select-container__form-size-input-group
+                            input.item-info__grid-select-container__form-size_input#first-size(type="radio", name="sizes" value="6")
+                            label.item-info__grid-select-container__form-size_label(for="first-size") 6
+                        .item-info__grid-select-container__form-size-input-group
+                            input.item-info__grid-select-container__form-size_input#second-size(type="radio", name="sizes" value="6.5" checked)
+                            label.item-info__grid-select-container__form-size_label(for="second-size") 6,5
+                        .item-info__grid-select-container__form-size-input-group
+                            input.item-info__grid-select-container__form-size_input#third-size(type="radio", name="sizes" value="7")
+                            label.item-info__grid-select-container__form-size_label(for="third-size") 7
+                        .item-info__grid-select-container__form-size-input-group
+                            input.item-info__grid-select-container__form-size_input#4th-size(type="radio", name="sizes" value="9")
+                            label.item-info__grid-select-container__form-size_label(for="4th-size") 9
+                    a(href="#sizes").item-info__grid-select-container__form-size-table__js-popup-sizes
+                        span Таблица размеров
+                    br
+                    label.item-info__grid-select-container__form-submit_button
+                        input.item-info__grid-select-container__form-submit_button_input.yellow-gradient_button(type="submit" value="Купить, 92 000 ₽")
         .item-info__grid-info
             ul.item-info__grid-info-top(itemprop="itemListElement" itemscope itemtype="https://schema.org/ItemList")
                 li(itemprop="itemListElement")
@@ -81,3 +110,5 @@ section.item-item-info
                     picture
                         source(data-lazy='assets/img/item/image4-140.webp' type='image/webp')
                         img(data-lazy="assets/img/item/image4-140.jpg" width="140" height="140" alt="Кроссовок - фото 4")
+
+include itemSizesPopup

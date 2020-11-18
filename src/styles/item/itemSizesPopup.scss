@@ -1,0 +1,17 @@
+@import "../colors";
+
+.white-popup-sizes {
+  .mfp-close{
+    margin: 1rem;
+    z-index: 10;
+    font-size: 0;
+    width: 2rem;
+    height: 2rem;
+    background: url("https://viste1.github.io/build/assets/img/popups/close.svg") 0 0 / 100% no-repeat;
+  }
+  position: relative;
+  background: $white;
+  min-height: 19.8rem;
+  width: 68.8rem;
+  margin: 0 auto;
+}

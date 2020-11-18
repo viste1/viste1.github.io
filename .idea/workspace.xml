@@ -27,9 +27,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/includes/item/itemSizesPopup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/buttonStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/styles/item/itemSizesPopup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/includes/item/itemSizesPopup.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/buttonStyles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/item/itemSizesPopup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/item/itemInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkout.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkoutMainBlock.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkoutMainBlock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/item/itemInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/itemInfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/footer.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/popups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/popups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +72,8 @@
       <list>
         <option value="HTML File" />
         <option value="package.json" />
-        <option value="Pug File" />
         <option value="JavaScript File" />
+        <option value="Pug File" />
       </list>
     </option>
   </component>
@@ -119,15 +146,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3" />
-      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\styles\main_page" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Site\src\pages\includes\main_page" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\vendor\jquery" />
       <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\includes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3" />
+      <recent name="C:\Users\viste\OneDrive\Рабочий стол\Session2\src\pages\Session3\includes" />
     </key>
   </component>
   <component name="RunManager">
@@ -226,6 +253,8 @@
       <workItem from="1605562399095" duration="1288000" />
       <workItem from="1605604726339" duration="3236000" />
       <workItem from="1605615825624" duration="15762000" />
+      <workItem from="1605682866407" duration="6230000" />
+      <workItem from="1605690790470" duration="5252000" />
     </task>
     <servers />
   </component>
@@ -260,11 +289,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605627955339">
+    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605694615058">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602964601269" />
-    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605627955339" />
+    <state x="712" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605694615058" />
     <state x="588" y="105" key="CommitChangelistDialog2" timestamp="1605516576558">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -367,11 +396,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602966768962" />
-    <state x="634" y="109" width="1070" height="941" key="find.popup" timestamp="1605539678358">
+    <state x="634" y="108" width="1070" height="941" key="find.popup" timestamp="1605693611383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="634" y="109" width="1070" height="941" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605108810776" />
-    <state x="634" y="109" width="1070" height="941" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605539678358" />
+    <state x="634" y="108" width="1070" height="941" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605693611383" />
     <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603469952470">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
