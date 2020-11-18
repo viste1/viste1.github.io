@@ -1,0 +1,29 @@
+@import "nav";
+
+.header-menu{
+  background: linear-gradient(269.92deg, $black 0.07%, #0C0C0C 99.93%);
+  color: $white;
+  &:hover{
+    color: $gray;
+  }
+}
+.header-menu__list{
+  li{
+    border-color: $white;
+    &:hover
+    {
+      border-color: $gray;
+    }
+  }
+}
+.header-menu__order-text{
+  border-color: $white;
+  &:hover
+  {
+    border-color: $gray;
+  }
+}
+.header-menu__order-icon{
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}

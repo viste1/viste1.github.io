@@ -1,11 +1,32 @@
 section.catalog-items-list
-    .catalog-items-list__big-block
+    .catalog-items-list__container
         h1 Обувь
-        .catalog-items-list__big-block__black
-        .catalog-items-list__big-block__grid
+        .catalog-items-list__container__black
+        .catalog-items-list__container__grid
             - let n = 1;
                 while n <= 16
                     a(href="/build/item.html")
-                        .catalog-items-list__big-block__grid_item(class='catalog-items-list__big-block_grid-item'+n++)
-                            p Maison Margiela Fusion Low Sneakers
-        p.catalog-items-list__big-block__pages Страницы
+                        .catalog-items-list__container__grid_item(class='catalog-items-list__container__grid_item' + n++)
+                            picture(itemprop="image")
+                                source(srcset='assets/img/catalog/sneaker1-240.webp' type='image/webp')
+                                img(srcset="assets/img/catalog/sneaker1-240.jpg" width="240" height="240" alt="Maison Margiela Fusion Low Sneakers")
+                            .catalog-items-list__container__grid-text_container
+                                p.catalog-items-list__container__grid-text_container-title
+                                    span Maison Margiela Fusion
+                                    span Low Sneakers
+                                p.catalog-items-list__container__grid-text_container-cat Кроссовки
+                                p.catalog-items-list__container__grid-text_container-price 92 000 ₽
+        p.catalog-items-list__container__pages Страницы
+        .catalog-items-list__container__pages-num
+            a.catalog-items-list__container__pages-num_active(href="/build/catalog.html") 1
+            a(href="/build/catalog.html") 2
+            a(href="/build/catalog.html") 3
+            a(href="/build/catalog.html") 4
+            a(href="/build/catalog.html") 5
+            a(href="/build/catalog.html") 6
+            a(href="/build/catalog.html") 7
+            a(href="/build/catalog.html") 8
+            a(href="/build/catalog.html") 9
+            a(href="/build/catalog.html") 10
+            a(href="/build/catalog.html") 11
+            a(href="/build/catalog.html") 12
