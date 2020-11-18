@@ -1,3 +1,4 @@
-@import "src/styles/main";
-@import "src/styles/checkout/checkoutMainBlock";
-@import "src/styles/checkout/checkoutFooter";
+@import "../main";
+@import "checkoutMainBlock";
+@import "checkoutFooter";
+@import "../footerRulesPopup";

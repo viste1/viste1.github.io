@@ -1,9 +1,9 @@
-@import "src/styles/main";
-@import "src/styles/slickArrows";
-@import "src/styles/nav";
-@import "src/styles/checkout-complete/checkout-complete-text";
-@import "src/styles/footer";
-@import "src/styles/recommendations";
+@import "../main";
+@import "../slickArrows";
+@import "../nav";
+@import "checkout-complete-text";
+@import "../footer";
+@import "../recommendations";
 
 .checkout-complete-nav{
   height: 4.8rem;

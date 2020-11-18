@@ -1,7 +1,7 @@
-@import "src/styles/main";
-@import "src/styles/nav";
-@import "src/styles/about/aboutText";
-@import "src/styles/footer";
+@import "../main";
+@import "../nav";
+@import "aboutText";
+@import "../footer";
 
 .about-nav{
   height: 4.8rem;

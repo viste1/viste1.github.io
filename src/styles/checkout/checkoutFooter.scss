@@ -3,6 +3,21 @@
 .section-checkout-footer__grid{
   height: 1.7rem;
   width: 73.7rem;
-  background: $lightest-gray;
   margin: 8rem 55.1rem 2.4rem 15.2rem;
+  display: grid;
+  grid-template: "fetch tel email rules";
+  grid-template-columns: 15.3rem 23.4rem 10.7rem 1fr;
+  font-size: 1.3rem;
+  color: $light-gray;
+  a{
+    color: $light-gray;
+    display: inline-block;
+    vertical-align: baseline;
+    line-height: 0.9;
+    border-bottom: 0.1rem $light-gray solid;
+    &:hover{
+      color: $blue;
+      border-color: $blue;
+    }
+  }
 }

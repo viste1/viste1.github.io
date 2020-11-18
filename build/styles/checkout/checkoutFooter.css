@@ -1,1 +1,1 @@
-.section-checkout-footer__grid{height:1.7rem;width:73.7rem;background:#f3f3f3;margin:8rem 55.1rem 2.4rem 15.2rem}
+.section-checkout-footer__grid{height:1.7rem;width:73.7rem;margin:8rem 55.1rem 2.4rem 15.2rem;display:grid;grid-template:"fetch tel email rules";grid-template-columns:15.3rem 23.4rem 10.7rem 1fr;font-size:1.3rem;color:#afafaf}.section-checkout-footer__grid a{color:#afafaf;display:inline-block;vertical-align:baseline;line-height:.9;border-bottom:.1rem solid #afafaf}.section-checkout-footer__grid a:hover{color:#4541fe;border-color:#4541fe}

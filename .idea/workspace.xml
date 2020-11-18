@@ -28,14 +28,22 @@
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/item/itemInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/item/itemSizesPopup.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemSizesPopup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/checkout/checkoutFooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout/checkoutFooter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkout.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkoutFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkoutFooter.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/item/itemInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/itemInfo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/item/itemSizesPopup.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/itemSizesPopup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemSizesPopup.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemSizesPopup.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/item/itemSizesPopup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemSizesPopup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutFooter.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutFooter.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/catalog/catalog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/catalog/catalog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout-complete/checkout-complete.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout-complete/checkout-complete.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkoutFooter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkoutFooter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/item.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main_page/homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main_page/homepage.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +242,8 @@
       <workItem from="1605615825624" duration="15762000" />
       <workItem from="1605682866407" duration="6230000" />
       <workItem from="1605690790470" duration="5604000" />
-      <workItem from="1605698329052" duration="3279000" />
+      <workItem from="1605698329052" duration="3513000" />
+      <workItem from="1605704099531" duration="3129000" />
     </task>
     <servers />
   </component>
@@ -282,11 +291,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="695" height="503" key="Git.Branch.Popup" timestamp="1605696118576">
+    <state width="697" height="505" key="Git.Branch.Popup" timestamp="1605701714316">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="695" height="503" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605696118576" />
+    <state width="697" height="505" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605701714316" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -363,11 +372,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605696121745">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605701722366">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605696121745" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605701722366" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
