@@ -27,8 +27,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/recommendations_sneaker7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/catalog/sneaker1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker1-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker1-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker2-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker2-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker3-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker3-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker4-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker4-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker5-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker5-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker6-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker6-240.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker7-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/catalog/sneaker7-240.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/img/recommendations/recommendations_sneaker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/recommendations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/scriptsJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/scriptsJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkout.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout/checkoutMainBlock.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout/checkoutMainBlock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vendor/lazy/jquery.lazy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/recommendations/recommendations_sneaker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/recommendations.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/scriptsJS.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vendor/lazy/jquery.lazy.min.js" beforeDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +301,7 @@
       <workItem from="1605682866407" duration="6230000" />
       <workItem from="1605690790470" duration="5604000" />
       <workItem from="1605698329052" duration="3513000" />
-      <workItem from="1605704099531" duration="3405000" />
+      <workItem from="1605704099531" duration="12409000" />
     </task>
     <servers />
   </component>
@@ -276,11 +349,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="699" height="507" key="Git.Branch.Popup" timestamp="1605707412142">
+    <state width="701" height="509" key="Git.Branch.Popup" timestamp="1605707565920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="699" height="507" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605707412142" />
+    <state width="701" height="509" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605707565920" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -357,11 +430,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605707418439">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605707572329">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605707418439" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605707572329" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -370,11 +443,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1903" y="-21" width="1692" height="908" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602966768962" />
-    <state x="634" y="108" width="1070" height="941" key="find.popup" timestamp="1605693611383">
+    <state x="634" y="108" width="1070" height="941" key="find.popup" timestamp="1605716672058">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="634" y="109" width="1070" height="941" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605108810776" />
-    <state x="634" y="108" width="1070" height="941" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605693611383" />
+    <state x="634" y="108" width="1070" height="941" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605716672058" />
     <state x="740" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603469952470">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
