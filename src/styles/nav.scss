@@ -89,3 +89,49 @@
   text-align: center;
   margin: 0.7rem 0 0 0.7rem;
 }
+
+.dark{
+  .header-menu{
+    background: linear-gradient(269.92deg, rgba(0, 0, 0, 0) 0.07%, #0C0C0C 99.93%);
+    a{
+      color: $white;
+      &:hover{
+        color: $light-gray;
+      }
+    }
+  }
+  .header-menu__list{
+    li{
+      border-color: $white;
+      &:hover
+      {
+        border-color: $light-gray;
+      }
+    }
+  }
+  .header-menu__order-text{
+    border-color: $white;
+    &:hover
+    {
+      border-color: $light-gray;
+    }
+  }
+
+  .header-menu__order-icon{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+  .main-header__slider-text{
+    color: $white;
+    &:hover{
+      span{
+        color: $light-gray;
+        border-color: $light-gray;
+      }
+    }
+    span{
+      border-color: $white;
+    }
+  }
+}
