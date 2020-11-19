@@ -27,33 +27,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42db805-716f-4abb-9cad-54b30082748a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/main_bigSlider_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/main_bigSlider_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/main_bigSlider_2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/psB824.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/main_bigSlider_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/main_bigSlider_2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/promo-block-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/promo-block-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/promo-block-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/promo-block-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/assets/img/homepage/promo-block-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/includes/main_page/bigSlider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/promo-block-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/promo-block-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/promo-block-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/promo-block-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/homepage/promo-block-3.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/main_page/mainHeader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/main_page/promoBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/promoBlock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/about/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/catalog/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/catalog/catalog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/checkout-complete/checkout-complete.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout-complete/checkout-complete.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/styles/main_page/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main_page/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles/navDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/navDark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/main_page/promoBlock.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main_page/promoBlock.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/nav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/nav.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/navDark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/mainHeader.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/bigSlider.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main_page/promoBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main_page/promoBlock.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +250,8 @@
       <workItem from="1605698329052" duration="3513000" />
       <workItem from="1605704099531" duration="12594000" />
       <workItem from="1605719546474" duration="16397000" />
-      <workItem from="1605771717765" duration="3059000" />
+      <workItem from="1605771717765" duration="3428000" />
+      <workItem from="1605777547573" duration="5098000" />
     </task>
     <servers />
   </component>
@@ -303,11 +299,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="705" height="513" key="Git.Branch.Popup" timestamp="1605737954618">
+    <state width="707" height="515" key="Git.Branch.Popup" timestamp="1605774990432">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="617" height="425" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183216837" />
-    <state width="705" height="513" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605737954618" />
+    <state width="707" height="515" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605774990432" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605128860643">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -384,11 +380,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605737958985">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605774994316">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605183232143" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605737958985" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605774994316" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -415,9 +411,9 @@
     </state>
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605118482137" />
     <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605621463116" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605551132665">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605778770977">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605551132665" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605778770977" />
   </component>
 </project>

@@ -17,9 +17,6 @@
   grid-template-columns: 46.4rem 1fr;
   grid-column-gap: 1.7rem;
   grid-row-gap: 2.4rem;
-  a:hover{
-    border: 0.5rem $blue solid;
-  }
 }
 .promo-block__grid_block1{
   grid-area: promo-block__grid_block1;
@@ -39,4 +36,62 @@
 .promo-block__grid_block4{
   grid-area: promo-block__grid_block4;
   background: $lightest-gray;
+}
+
+.promo-block__grid_block{
+  padding: 2.9rem 0 0 1.6rem;
+  p:nth-child(1){
+    z-index: 100;
+    font-size: 3.2rem;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: baseline;
+    border-bottom: 0.1rem $black solid;
+    line-height: 0.95;
+  }
+  p:nth-child(2){
+    z-index: 100;
+    margin: 1.3rem 6.4rem 0 0;
+    font-size: 1.6rem;
+  }
+}
+
+.promo-block__grid_block3{
+  padding-left: 2.3rem;
+}
+
+.promo-block__grid_block1, .promo-block__grid_block2{
+  p:nth-child(1){
+    letter-spacing: 0.03rem;
+  }
+}
+
+.promo-block__grid{
+  a:hover{
+    p{
+      border-color: $blue;
+    }
+    p:nth-child(2){
+      color: $black;
+    }
+  }
+  .promo-block__grid_block-white:hover{
+    p:nth-child(1){
+      color: $gray;
+      border-color: $gray;
+    }
+    p:nth-child(2){
+      color: $white;
+    }
+  }
+}
+
+.promo-block__grid_block-white{
+  p{
+    color: $white;
+    border-color: $white;
+  }
+  p:nth-child(1){
+    border-color: white;
+  }
 }
