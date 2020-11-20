@@ -1,9 +1,9 @@
 .mfp-hide.white-popup-sizes#sizes
     .white-popup-sizes-container
-        table
-            caption Таблица размеров
+        table(itemscope itemtype="https://schema.org/Table")
+            caption(itemprop="about") Таблица размеров
             tr
-                td.white-popup-sizes-container__table-head US
+                td.white-popup-sizes-container__table-head(itemprop="name") US
                 td 4
                 td 4,5
                 td 5
@@ -13,7 +13,7 @@
                 td 7
                 td 7,5
             tr
-                td.white-popup-sizes-container__table-head UK
+                td.white-popup-sizes-container__table-head(itemprop="name") UK
                 td 3,5
                 td 4
                 td 4,5
@@ -23,7 +23,7 @@
                 td 6,5
                 td 7
             tr
-                td.white-popup-sizes-container__table-head EU
+                td.white-popup-sizes-container__table-head(itemprop="name") EU
                 td 36
                 td 37
                 td 38

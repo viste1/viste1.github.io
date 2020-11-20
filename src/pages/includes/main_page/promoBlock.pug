@@ -1,26 +1,26 @@
 section.promo-block
-    .promo-block__grid
-        a(href="/build/catalog.html").promo-block__grid_block.promo-block__grid_block1
-            .promo-block__grid_block-text
+    .promo-block__grid(itemscope itemtype="http://www.schema.org/SiteNavigationElement")
+        a(href="/build/catalog.html" itemprop="url").promo-block__grid_block.promo-block__grid_block1
+            .promo-block__grid_block-text(itemprop="description")
                 p Лукбук, лето 2019
                 p Стильные образы для тёплых деньков
-            picture.promo-block__grid_block1-picture
+            picture.promo-block__grid_block1-picture(itemprop="image")
                 source(srcset="assets/img/homepage/promo-block-1.webp" type='image/webp')
                 img(srcset="assets/img/homepage/promo-block-1.jpg" width="442.37" height="223.69" alt="Изображение промоблока")
-        a(href="/build/catalog.html").promo-block__grid_block.promo-block__grid_block2.promo-block__grid_block-white
-            .promo-block__grid_block-text
+        a(href="/build/catalog.html" itemprop="url").promo-block__grid_block.promo-block__grid_block2.promo-block__grid_block-white
+            .promo-block__grid_block-text(itemprop="description")
                 p Выбор редакции: часы
                 p ТОП-5 лучших предложений по версии администрации Фетч
-        a(href="/build/catalog.html").promo-block__grid_block.promo-block__grid_block3
-            .promo-block__grid_block-text
+        a(href="/build/catalog.html" itemprop="url").promo-block__grid_block.promo-block__grid_block3
+            .promo-block__grid_block-text(itemprop="description")
                 p Новая коллекция adidas Originals
                 p Десять крутейших кроссовок
-            picture.promo-block__grid_block3-picture
+            picture.promo-block__grid_block3-picture(itemprop="image")
                 img(src="assets/img/homepage/promo-block-2.png" width="700" height="500" alt="Изображение промоблока")
-        a(href="/build/item.html").promo-block__grid_block.promo-block__grid_block4
-            .promo-block__grid_block-text
+        a(href="/build/item.html" itemprop="url").promo-block__grid_block.promo-block__grid_block4
+            .promo-block__grid_block-text(itemprop="description")
                 p Предзаказ: Maison Margiela Fusion
                 p От 92 000 ₽
-            picture.promo-block__grid_block4-picture
+            picture.promo-block__grid_block4-picture(itemprop="image")
                 source(srcset="assets/img/homepage/promo-block-3.webp" type='image/webp')
                 img(srcset="assets/img/homepage/promo-block-3.jpg" width="1136" height="480" alt="Изображение промоблока")
