@@ -10,10 +10,10 @@
   height: 2.4rem;
   outline: none;
   outline-offset: 0;
-  transition: all 2000ms cubic-bezier(0.19, 1, 0.22, 1);
+  transition: all 2000ms cubic-bezier(.19, 1, .22, 1);
   &:hover{
     cursor: url("https://viste1.github.io/build/assets/img/cursors/pointer.png"), pointer;
-    opacity: 0.5;
+    opacity: .5;
   }
 }
 
@@ -24,4 +24,24 @@
 .slick-next{
   right: 0;
   background: url("https://viste1.github.io/build/assets/img/slider_arrows/arr-right.svg") 0 0 / 100% no-repeat;
+}
+
+.nav__js-slider{
+  .slick-arrow{
+    position: absolute;
+    margin: 0 2.4rem;
+    top: 5rem;
+    z-index: 100;
+    font-size: 0;
+    width: 1.8rem;
+    height: 2.4rem;
+  }
+  .slick-prev{
+    left: 0;
+    background: url("https://viste1.github.io/build/assets/img/slider_arrows/arr-left.svg") 0 0 / 100% no-repeat;
+  }
+  .slick-next{
+    right: 0;
+    background: url("https://viste1.github.io/build/assets/img/slider_arrows/arr-right.svg") 0 0 / 100% no-repeat;
+  }
 }

@@ -7,7 +7,7 @@
 .catalog-items-list__container__black{
   position: absolute;
   left: 0;
-  margin-top: 0.9rem;
+  margin-top: .9rem;
   height: 16rem;
   min-width: 100%;
   background: $black;
@@ -18,7 +18,7 @@
     color: $white;
     font-size: 3rem;
     max-width: 117.6rem;
-    letter-spacing: 0.13rem;
+    letter-spacing: .13rem;
     z-index: 100;
     padding: 3.3rem 0 0 15.2rem;
   }
@@ -55,10 +55,10 @@
 .catalog-items-list__container__grid-text_container-title{
   font-weight: 700;
   font-size: 1.6rem;
-  margin-top: 0.5rem;
+  margin-top: .5rem;
 }
 .catalog-items-list__container__grid-text_container-cat{
-  margin-top: 0.5rem;
+  margin-top: .5rem;
   font-weight: 400;
   font-size: 1.3rem;
 }
@@ -72,9 +72,9 @@
   span {
     display: inline-block;
     vertical-align: baseline;
-    border-bottom: 0.1rem $black solid;
+    border-bottom: .1rem $black solid;
     font-size: 1.6rem;
-    line-height: 0.95;
+    line-height: .95;
   }
 }
 

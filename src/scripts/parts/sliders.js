@@ -43,9 +43,19 @@ function initSliderSectionRecommendations() {
     })
 }
 
+function initSliderNav() {
+    $('.nav__js-slider').slick({
+        slidesToShow: 1,
+        variableWidth: true,
+        infinite: false,
+        arrows: false
+    })
+}
+
 export default function initSliders() {
     initSliderSectionMainFull();
     initSliderSectionItemMini();
     initSliderSectionItemFull();
     initSliderSectionRecommendations();
+    initSliderNav();
 }

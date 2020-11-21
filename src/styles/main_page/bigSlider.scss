@@ -2,6 +2,7 @@
 
 .main-header__slider-text {
   max-width: 57.7rem;
+  min-width: 57.7rem;
   font-size: 6.2rem;
   font-weight: 600;
   position: absolute;
@@ -10,7 +11,7 @@
   left: 15.2rem;
   padding: 0;
   margin: 0;
-  letter-spacing: 0.12rem;
+  letter-spacing: .12rem;
   &:hover{
     span{
       border-color: $blue;
@@ -19,15 +20,15 @@
   span{
     display: inline-block;
     vertical-align: baseline;
-    border-bottom: 0.35rem $black solid;
-    line-height: 0.95;
+    border-bottom: .35rem $black solid;
+    line-height: .95;
   }
 }
 
 .main-header__grid-under-bigSlider_text{
   padding-left: 15.35rem;
   padding-top: 4.55rem;
-  letter-spacing: 0.072rem;
+  letter-spacing: .072rem;
   font-size: 1.1rem;
   span{
     font-weight: 100;
@@ -72,5 +73,5 @@
 }
 
 .main-header__grid-under-bigSlider{
-  margin-top: 0.3rem;
+  margin-top: .3rem;
 }

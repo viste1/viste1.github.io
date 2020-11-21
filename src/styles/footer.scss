@@ -19,14 +19,14 @@
   padding-top: 3.5rem;
 
   ul{
-    padding-top: 0.18rem;
+    padding-top: .18rem;
   }
 
   li{
     font-size: 1.5rem;
-    margin-left: 0.9rem;
-    letter-spacing: 0.05rem;
-    padding-top: 0.96rem;
+    margin-left: .9rem;
+    letter-spacing: .05rem;
+    padding-top: .96rem;
     &:nth-child(1){
       padding-top: 1.3rem;
     }
@@ -36,8 +36,8 @@
     color: $white;
     display: inline-block;
     vertical-align: baseline;
-    line-height: 0.95;
-    border-bottom: 0.1rem $white solid;
+    line-height: .95;
+    border-bottom: .1rem $white solid;
     &:hover{
       color: $gray;
       border-color: $gray;
@@ -68,12 +68,12 @@
   .footer__grid-navigation-fetch_contacts-phone{
       padding-top: 1rem;
       font-size: 1.5rem;
-      letter-spacing: 0.07rem;
+      letter-spacing: .07rem;
   }
   .footer__grid-navigation-fetch_contacts-text{
     font-size: 1.2rem;
     font-weight: 100;
-    padding-top: 0.3rem;
+    padding-top: .3rem;
   }
 }
 
@@ -90,8 +90,8 @@
     color: $gray;
     display: inline-block;
     vertical-align: baseline;
-    line-height: 0.9;
-    border-bottom: 0.1rem $gray solid;
+    line-height: .9;
+    border-bottom: .1rem $gray solid;
     &:hover{
       color: $white;
       border-color: $white;

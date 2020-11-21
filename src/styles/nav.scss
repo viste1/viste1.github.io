@@ -8,7 +8,7 @@
   grid-template-areas:
           "label list order";
   grid-template-rows: 3.4rem;
-  grid-template-columns: 17.2% 1fr 20.2%;
+  grid-template-columns: 17.2% 90rem 20.2%;
   padding-bottom: 1.4rem;
   a{
     color: $black;
@@ -19,39 +19,36 @@
 }
 
 .header-menu__label{
+  grid-area: label;
   padding-left: 15.2rem;
-  padding-top: 0.75rem;
+  padding-top: .75rem;
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   a{
     line-height: 0;
   }
 }
 
 .header-menu__list{
-  display: -webkit-box;
-  padding-bottom: 0.2rem;
-  font-size: 1.62rem;
-  li{
-    margin-left: 2.38rem;
-    border-bottom: 0.14rem $black solid;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    line-height: 2.9;
-    &:hover
-    {
-      border-color: $blue;
-    }
-    &:nth-child(1){
-      margin-left: 0;
+  grid-area: list;
+  font-size: 1.6rem;
+  a{
+    margin: 1.5rem 2.45rem 0 0;
+    display: inline-block;
+    vertical-align: baseline;
+    line-height: 1;
+    border-bottom: .14rem $black solid;
+    &:hover{
+      border-color: blue;
     }
   }
 }
 
 .header-menu__order{
-  padding-top: 1.3rem;
+  grid-area: order;
+  margin-top: 1.2rem;
   font-size: 1.62rem;
-  display: -webkit-box;
+  display: flex;
 }
 
 .header-menu__order-icon
@@ -60,16 +57,16 @@
   height: 2.5rem;
   left: 0;
   background: url("https://viste1.github.io/build/assets/img/nav/cart.svg") 0 0 / 100% no-repeat;
-  margin-top: 0.3rem;
-  margin-left: 0.1rem;
+  margin: .4rem 0 0 .1rem;
 }
 
 .header-menu__order-text{
   display: inline-block;
   vertical-align: baseline;
-  line-height: 1;
-  border-bottom: 0.14rem $black solid;
-  margin-left: 0.55rem;
+  line-height: 1.6;
+  border-bottom: .14rem $black solid;
+  margin-left: .65rem;
+  margin-bottom: .15rem;
   &:hover
   {
     border-color: $blue;
@@ -87,12 +84,12 @@
   border-radius: 50%;
   background: $blue;
   text-align: center;
-  margin: 0.7rem 0 0 0.7rem;
+  margin: .8rem 0 0 .9rem;
 }
 
 .dark{
   .header-menu{
-    background: linear-gradient(269.92deg, rgba(0, 0, 0, 0) 0.07%, #0C0C0C 99.93%);
+    background: linear-gradient(269.92deg, rgba(0, 0, 0, 0) .07%, #0C0C0C 99.93%);
     a{
       color: $white;
       &:hover{
@@ -101,10 +98,10 @@
     }
   }
   .header-menu__list{
-    li{
+    a{
       border-color: $white;
-      &:hover
-      {
+      &:hover{
+        color: $light-gray;
         border-color: $light-gray;
       }
     }

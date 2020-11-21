@@ -17,8 +17,8 @@
   a{
     display: inline-block;
     vertical-align: baseline;
-    border-bottom: 0.1rem $black solid;
-    line-height: 0.95;
+    border-bottom: .1rem $black solid;
+    line-height: .95;
     &:hover{
       color: $blue;
       border-color: $blue;

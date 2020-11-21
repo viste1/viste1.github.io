@@ -31,26 +31,34 @@
       <change beforePath="$PROJECT_DIR$/build/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/checkout-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout-complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/catalog/itemsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/catalog/itemsList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/checkout-complete/checkout-complete-text.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout-complete/checkout-complete-text.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/checkout/checkoutFooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout/checkoutFooter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/checkout/checkoutMainBlock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/item/itemInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/includes/item/itemSizesPopup.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/item/itemSizesPopup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/includes/main_page/bigSlider.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/main_page/bigSlider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/includes/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/catalog/itemsList.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/catalog/itemsList.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout-complete/checkout-complete-text.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout-complete/checkout-complete-text.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutFooter.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutFooter.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/checkout/checkoutMainBlock.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/footer.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/footerRulesPopup.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/footerRulesPopup.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemInfo.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/item/itemSizesPopup.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/item/itemSizesPopup.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/main_page/promoBlock.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/about/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/catalog/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/catalog/catalog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/checkout-complete/checkout-complete.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/checkout-complete/checkout-complete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/item/item.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/item/item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/main_page/bigSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main_page/bigSlider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/main_page/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/main_page/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles/slickArrows.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles/slickArrows.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/includes/nav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/includes/nav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/parts/sliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/parts/sliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about/aboutText.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about/aboutText.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/catalog/itemsList.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/catalog/itemsList.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout-complete/checkout-complete-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout-complete/checkout-complete-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkoutFooter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkoutFooter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/checkout/checkoutMainBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/item/itemSizesPopup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/item/itemSizesPopup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main_page/bigSlider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main_page/bigSlider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main_page/promoBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main_page/promoBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/recommendations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/recommendations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/slickArrows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/slickArrows.scss" afterDir="false" />
     </list>
     <list id="aaa6d079-80de-4489-8e80-183da85d58d5" name="Revert &quot;initial&quot;" comment="Revert &quot;initial&quot;&#10;&#10;This reverts commit de3e2e41" />
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +266,9 @@
       <workItem from="1605865258748" duration="791000" />
       <workItem from="1605866733928" duration="137000" />
       <workItem from="1605866888390" duration="871000" />
-      <workItem from="1605868180555" duration="10281000" />
+      <workItem from="1605868180555" duration="11298000" />
+      <workItem from="1605954036426" duration="2662000" />
+      <workItem from="1605963325833" duration="9209000" />
     </task>
     <servers />
   </component>
@@ -306,10 +316,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1604860263599" />
-    <state width="627" height="435" key="Git.Branch.Popup" timestamp="1605877893724">
+    <state width="631" height="439" key="Git.Branch.Popup" timestamp="1605956238529">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="627" height="435" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605877893724" />
+    <state width="631" height="439" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605956238529" />
     <state width="707" height="515" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605774990432" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1605865242859">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -387,10 +397,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605107918318" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605877899688">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605884070888">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605877899688" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605884070888" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605774994316" />
     <state x="713" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1605516587080">
       <screen x="0" y="0" width="1920" height="1080" />
