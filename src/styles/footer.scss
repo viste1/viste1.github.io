@@ -4,6 +4,7 @@
 .footer{
   background: $black;
   min-width: 100%;
+  width: 144rem;
 }
 .footer__grid-navigation, .footer__grid-copyright{
   max-width: 144rem;
@@ -15,10 +16,10 @@
   grid-template-areas:
           "blank fetch men women shoes accessories discounts";
   grid-template-rows: 21.5rem;
-  grid-template-columns: 10.6% 12.95% 12.05% 11.9% 12.7% 13.55% 1fr;
+  grid-template-columns: 15.2rem 18.6rem 17.4rem 17.2rem 18.3rem 19.5rem;
   padding-top: 3.5rem;
-
   ul{
+    width: 15rem;
     padding-top: .18rem;
   }
 
@@ -28,6 +29,7 @@
     letter-spacing: .05rem;
     padding-top: .96rem;
     &:nth-child(1){
+      min-width: 15rem;
       padding-top: 1.3rem;
     }
   }
@@ -44,6 +46,7 @@
     }
   }
   h3{
+    min-width: 4.8rem;
     font-size: 1.8rem;
     font-weight: 600;
   }
@@ -77,12 +80,14 @@
   }
 }
 
+
 .footer__grid-copyright{
   display: grid;
   grid-template-areas:
-          "blank fetch rules dev";
+          "fetch rules dev";
   grid-template-rows: 5rem;
-  grid-template-columns: 10.6% 10.6% 18.5% 1fr;
+  padding-left: 15.2rem;
+  grid-template-columns: 15.3rem 26.7rem 17.6rem;
   font-size: 1.3rem;
   color: $gray;
   margin-top: 5.1rem;

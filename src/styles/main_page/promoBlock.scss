@@ -7,14 +7,14 @@
 
 .promo-block__grid{
   max-width: 113.6rem;
-  margin: 3.9rem auto 7.35rem auto;
+  margin: 3.9rem auto 7.35rem 15.2rem;
   display: grid;
   grid-template-areas:
           "promo-block__grid_block1 promo-block__grid_block3"
           "promo-block__grid_block2 promo-block__grid_block3"
           "promo-block__grid_block4 promo-block__grid_block4";
   grid-template-rows: 32rem 16rem 47.9rem;
-  grid-template-columns: 46.4rem 1fr;
+  grid-template-columns: 46.4rem 65.5rem;
   grid-column-gap: 1.7rem;
   grid-row-gap: 2.4rem;
 }
@@ -39,6 +39,7 @@
 }
 
 .promo-block__grid_block-text{
+  min-width: 51rem;
   padding: 2.9rem 0 0 1.6rem;
   position: absolute;
   z-index: 100;

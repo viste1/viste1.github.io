@@ -2,7 +2,7 @@
 
 .main-header__slider-text {
   max-width: 57.7rem;
-  min-width: 57.7rem;
+  width: 57.7rem;
   font-size: 6.2rem;
   font-weight: 600;
   position: absolute;
@@ -26,7 +26,7 @@
 }
 
 .main-header__grid-under-bigSlider_text{
-  padding-left: 15.35rem;
+  padding-left: 15.2rem;
   padding-top: 4.55rem;
   letter-spacing: .072rem;
   font-size: 1.1rem;
@@ -41,16 +41,16 @@
 }
 
 .main-header__grid-under-bigSlider_navigation{
-  padding-left: 5.1rem;
+  padding-left: 4.7rem;
 }
 
 .main-header__grid-under-bigSlider{
   display: grid;
   grid-template-areas: "fetch footer";
-  grid-template-columns: 27% 73%;
+  grid-template-columns: 39.2rem 80.7rem;
   .footer__grid-navigation{
-    grid-template-columns: 0 15.8% 15.5% 16.8% 18%;
-    margin-top: 1.3rem;
+    grid-template-columns: 0 15.8rem 15.6rem 16.7rem 17.9rem;
+    margin-top: 1.35rem;
     a{
       color: $blue;
       border-color: $blue;
@@ -74,4 +74,8 @@
 
 .main-header__grid-under-bigSlider{
   margin-top: .3rem;
+}
+
+.section-main__js-slider-full{
+  width: 144rem;
 }
